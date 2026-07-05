@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HSK5 综合复习词汇手册 — China Focus</title>
+<style>
+    :root {
+        --blue: #2b6cb0;
+        --teal: #319795;
+        --green: #38a169;
+        --bg: #f7fafc;
+        --text: #2d3748;
+        --muted: #718096;
+        --border: #e2e8f0;
+    }
+    * { box-sizing: border-box; }
+    body {
+        font-family: 'Segoe UI', 'Sukhumvit Set', 'Arial', sans-serif;
+        color: var(--text);
+        line-height: 1.6;
+        padding: 20px;
+        max-width: 1200px;
+        margin: 0 auto;
+        background: var(--bg);
+    }
+    .cover {
+        text-align: center;
+        padding: 48px 20px;
+        background: linear-gradient(135deg, #e6fffa 0%, #ebf8ff 100%);
+        border-radius: 12px;
+        margin-bottom: 32px;
+    }
+    .cover-title { font-size: 2rem; font-weight: bold; color: var(--blue); margin: 0; }
+    .cover-subtitle { font-size: 1rem; color: #4a5568; margin-top: 8px; }
+    .toolbar {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        align-items: center;
+        background: white;
+        padding: 16px;
+        border-radius: 10px;
+        margin-bottom: 24px;
+        box-shadow: 0 1px 3px rgba(0,0,0,.08);
+        position: sticky;
+        top: 0;
+        z-index: 10;
+    }
+    .progress-wrap { flex: 1; min-width: 200px; }
+    .progress-bar {
+        height: 10px;
+        background: var(--border);
+        border-radius: 5px;
+        overflow: hidden;
+        margin-top: 6px;
+    }
+    .progress-fill {
+        height: 100%;
+        background: linear-gradient(90deg, var(--teal), var(--green));
+        width: 0%;
+        transition: width .3s;
+    }
+    .progress-text { font-size: .9rem; color: var(--muted); }
+    .btn {
+        padding: 8px 14px;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: .9rem;
+        background: var(--blue);
+        color: white;
+    }
+    .btn:hover { opacity: .9; }
+    .btn-outline { background: white; color: var(--blue); border: 1px solid var(--blue); }
+    .status-dot { font-size: .75rem; color: var(--muted); }
+    .status-dot.ok { color: var(--green); }
+    .status-dot.warn { color: #d69e2e; }
+    .toc { background: white; padding: 16px 24px; border-radius: 10px; margin-bottom: 24px; }
+    .toc ul { columns: 2; margin: 0; padding-left: 20px; }
+    .toc a { color: var(--blue); text-decoration: none; }
+    .toc a:hover { text-decoration: underline; }
+    .section-title {
+        font-size: 1.35rem;
+        color: var(--blue);
+        border-bottom: 2px solid var(--teal);
+        padding-bottom: 8px;
+        margin: 32px 0 12px;
+        scroll-margin-top: 80px;
+    }
+    .chapter-meta { font-size: .9rem; color: var(--muted); margin-bottom: 8px; }
+    table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.06); margin-bottom: 24px; }
+    th { background: var(--blue); color: white; padding: 10px 12px; text-align: left; font-size: .85rem; }
+    td { padding: 10px 12px; border-bottom: 1px solid var(--border); font-size: .9rem; vertical-align: top; }
+    tr:nth-child(even) td { background: #fafafa; }
+    tr.checked td { background: #f0fff4 !important; opacity: .85; }
+    tr.checked .word { text-decoration: line-through; color: var(--muted); }
+    .check-cell { text-align: center; width: 70px; }
+    .check-cell input { width: 18px; height: 18px; cursor: pointer; accent-color: var(--green); }
+    .check-label { display: block; font-size: .7rem; color: var(--muted); margin-top: 2px; }
+    .word { font-size: 1.15rem; font-weight: bold; color: #1a202c; }
+    .pinyin { color: var(--teal); font-size: .85rem; }
+    .pos { font-style: italic; color: var(--muted); font-weight: bold; }
+    .meaning { color: #4a5568; }
+    .num { color: var(--muted); font-size: .8rem; }
+    .filter-bar { margin-bottom: 16px; }
+    .filter-bar input {
+        width: 100%;
+        max-width: 400px;
+        padding: 8px 12px;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        font-size: .95rem;
+    }
+    .loading { text-align: center; padding: 60px; color: var(--muted); }
+    @media (max-width: 640px) {
+        .toc ul { columns: 1; }
+        table { font-size: .85rem; }
+    }
+</style>
+</head>
+<body>
+
+<div class="cover">
+    <div class="cover-title">HSK5 综合复习词汇</div>
+    <div class="cover-subtitle">คู่มือทบทวนและรวมคำศัพท์สำคัญ 8 บทเรียน (China Focus 中国微镜头)</div>
+</div>
+
+<div class="toolbar">
+    <div class="progress-wrap">
+        <div class="progress-text" id="progressText">กำลังโหลด...</div>
+        <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+    </div>
+    <button class="btn btn-outline" id="btnShowAll">แสดงทั้งหมด</button>
+    <button class="btn btn-outline" id="btnShowUnchecked">เฉพาะที่ยังไม่ท่อง</button>
+    <button class="btn" id="btnReset">รีเซ็ต checklist</button>
+    <span class="status-dot" id="saveStatus"></span>
+</div>
+
+<div class="filter-bar">
+    <input type="search" id="searchInput" placeholder="ค้นหาคำศัพท์ / พินอิน / ความหมาย...">
+</div>
+
+<div class="toc" id="toc">
+    <h2 style="margin-top:0;font-size:1.1rem;color:var(--blue)">📑 สารบัญ (Table of Contents)</h2>
+    <ul id="tocList"></ul>
+</div>
+
+<div id="content" class="loading">กำลังโหลดคำศัพท์...</div>
+
+<script>
+const CHAPTER_ORDER = ["人物","职业","爱情","社会","家庭","校园","旅行","商贸"];
+const CHAPTER_TH = {
+    "人物": "บทที่ 1: 人物 (People)",
+    "职业": "บทที่ 2: 职业 (Careers)",
+    "爱情": "บทที่ 3: 爱情 (Love)",
+    "社会": "บทที่ 4: 社会 (Society)",
+    "家庭": "บทที่ 5: 家庭 (Family)",
+    "校园": "บทที่ 6: 校园 (Campus)",
+    "旅行": "บทที่ 7: 旅行 (Travel)",
+    "商贸": "บทที่ 8: 商贸 (Business)"
+};
+
+let vocabulary = { chapters: [], words: [] };
+let checkedSet = new Set();
+let filterMode = "all"; // all | unchecked
+let searchQuery = "";
+let saveTimer = null;
+
+async function fetchWithRetry(url, tries = 4) {
+    let lastErr = new Error("network error");
+    for (let i = 0; i < tries; i++) {
+        try {
+            const res = await fetch(url, { cache: "no-store" });
+            if (res.ok) return res;
+            lastErr = new Error(`HTTP ${res.status}`);
+        } catch (err) {
+            lastErr = err;
+        }
+        if (i < tries - 1) {
+            document.getElementById("content").textContent =
+                `กำลังโหลดคำศัพท์... (ลองครั้งที่ ${i + 2}/${tries})`;
+            await new Promise(r => setTimeout(r, 1500 * (i + 1)));
+        }
+    }
+    throw lastErr;
+}
+
+async function loadData() {
+    const [vocabRes, checklistRes] = await Promise.all([
+        fetchWithRetry("vocabulary.json"),
+        fetch("/api/checklist").catch(() => null)
+    ]);
+    vocabulary = await vocabRes.json();
+
+    if (checklistRes && checklistRes.ok) {
+        const cl = await checklistRes.json();
+        checkedSet = new Set(cl.checked || []);
+        setSaveStatus("ok", "บันทึกใน checklist.json");
+    } else {
+        // fallback localStorage when opened without server
+        const saved = localStorage.getItem("china_vocab_checklist");
+        if (saved) {
+            try {
+                checkedSet = new Set(JSON.parse(saved).checked || []);
+            } catch (_) {}
+        }
+        setSaveStatus("warn", "ใช้ localStorage — เปิดผ่าน start.bat เพื่อบันทึก JSON");
+    }
+    render();
+}
+
+function setSaveStatus(type, msg) {
+    const el = document.getElementById("saveStatus");
+    el.className = "status-dot " + type;
+    el.textContent = msg;
+}
+
+function saveChecklist() {
+    const data = { checked: [...checkedSet], updated_at: new Date().toISOString() };
+
+    localStorage.setItem("china_vocab_checklist", JSON.stringify(data));
+
+    clearTimeout(saveTimer);
+    saveTimer = setTimeout(async () => {
+        try {
+            const res = await fetch("/api/checklist", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(data)
+            });
+            if (res.ok) {
+                setSaveStatus("ok", "บันทึกแล้ว ✓");
+            }
+        } catch (_) {
+            setSaveStatus("warn", "บันทึก localStorage แล้ว");
+        }
+    }, 300);
+}
+
+function toggleCheck(id, checked) {
+    if (checked) checkedSet.add(id);
+    else checkedSet.delete(id);
+    saveChecklist();
+    updateProgress();
+    const row = document.querySelector(`tr[data-id="${id}"]`);
+    if (row) {
+        row.classList.toggle("checked", checked);
+        if (filterMode === "unchecked" && checked) row.style.display = "none";
+    }
+}
+
+function updateProgress() {
+    const total = vocabulary.words.length;
+    const done = checkedSet.size;
+    const pct = total ? Math.round((done / total) * 100) : 0;
+    document.getElementById("progressText").textContent =
+        `ท่องแล้ว ${done} / ${total} คำ (${pct}%)`;
+    document.getElementById("progressFill").style.width = pct + "%";
+}
+
+function wordMatches(w) {
+    if (filterMode === "unchecked" && checkedSet.has(w.id)) return false;
+    if (!searchQuery) return true;
+    const q = searchQuery.toLowerCase();
+    return [w.word, w.pinyin, w.meaning_en, w.pos, w.chapter, w.chapter_en]
+        .some(f => (f || "").toLowerCase().includes(q));
+}
+
+function render() {
+    const byChapter = {};
+    for (const w of vocabulary.words) {
+        (byChapter[w.chapter] ||= []).push(w);
+    }
+
+    // TOC
+    const tocList = document.getElementById("tocList");
+    tocList.innerHTML = CHAPTER_ORDER.map((id, i) => {
+        const ch = vocabulary.chapters.find(c => c.id === id);
+        const count = ch ? ch.count : (byChapter[id] || []).length;
+        const done = (byChapter[id] || []).filter(w => checkedSet.has(w.id)).length;
+        return `<li><a href="#ch-${id}">${CHAPTER_TH[id] || id}</a> — ${done}/${count}</li>`;
+    }).join("");
+
+    // Content
+    const content = document.getElementById("content");
+    content.innerHTML = CHAPTER_ORDER.map(id => {
+        const words = (byChapter[id] || []).filter(wordMatches);
+        if (!words.length && (searchQuery || filterMode === "unchecked")) return "";
+        const ch = vocabulary.chapters.find(c => c.id === id);
+        const total = ch ? ch.count : (byChapter[id] || []).length;
+        const done = (byChapter[id] || []).filter(w => checkedSet.has(w.id)).length;
+
+        const rows = words.map(w => {
+            const isChecked = checkedSet.has(w.id);
+            return `<tr data-id="${w.id}" class="${isChecked ? "checked" : ""}">
+                <td class="check-cell">
+                    <input type="checkbox" ${isChecked ? "checked" : ""}
+                        onchange="toggleCheck('${w.id}', this.checked)" aria-label="ท่องแล้ว">
+                    <span class="check-label">ท่องแล้ว</span>
+                </td>
+                <td>
+                    <span class="num">${w.num}.</span>
+                    <span class="word">${esc(w.word)}</span><br>
+                    <span class="pinyin">${esc(w.pinyin)}</span>
+                </td>
+                <td><span class="pos">${esc(w.pos)}</span></td>
+                <td><span class="meaning">${esc(w.meaning_en)}</span></td>
+            </tr>`;
+        }).join("");
+
+        return `<section id="ch-${id}">
+            <h2 class="section-title">📚 ${CHAPTER_TH[id] || id}</h2>
+            <div class="chapter-meta">ท่องแล้ว ${done} / ${total} คำ</div>
+            <table>
+                <thead><tr>
+                    <th>✓</th>
+                    <th>คำศัพท์ / พินอิน</th>
+                    <th>ชนิดคำ</th>
+                    <th>ความหมาย (ไทย)</th>
+                </tr></thead>
+                <tbody>${rows || '<tr><td colspan="4" style="text-align:center;color:#718096">ไม่มีคำที่ตรงกับตัวกรอง</td></tr>'}</tbody>
+            </table>
+        </section>`;
+    }).join("");
+
+    updateProgress();
+}
+
+function esc(s) {
+    return String(s || "")
+        .replace(/&/g,"&amp;").replace(/</g,"&lt;")
+        .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+
+document.getElementById("btnShowAll").onclick = () => { filterMode = "all"; render(); };
+document.getElementById("btnShowUnchecked").onclick = () => { filterMode = "unchecked"; render(); };
+document.getElementById("btnReset").onclick = () => {
+    if (confirm("รีเซ็ต checklist ทั้งหมด?")) {
+        checkedSet.clear();
+        saveChecklist();
+        render();
+    }
+};
+document.getElementById("searchInput").oninput = (e) => {
+    searchQuery = e.target.value.trim();
+    render();
+};
+
+loadData().catch(err => {
+    document.getElementById("content").innerHTML =
+        `<p style="color:red">โหลดไม่สำเร็จ: ${esc(err.message)}<br>กรุณา run start.bat แล้วเปิด http://127.0.0.1:8765/</p>`;
+});
+</script>
+</body>
+</html>

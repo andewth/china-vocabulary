@@ -1,0 +1,7386 @@
+{
+  "chapters": [
+    {
+      "id": "人物",
+      "en": "People",
+      "count": 95
+    },
+    {
+      "id": "职业",
+      "en": "Careers",
+      "count": 87
+    },
+    {
+      "id": "爱情",
+      "en": "Love",
+      "count": 99
+    },
+    {
+      "id": "社会",
+      "en": "Society",
+      "count": 78
+    },
+    {
+      "id": "家庭",
+      "en": "Family",
+      "count": 81
+    },
+    {
+      "id": "校园",
+      "en": "Campus",
+      "count": 102
+    },
+    {
+      "id": "旅行",
+      "en": "Travel",
+      "count": 98
+    },
+    {
+      "id": "商贸",
+      "en": "Business",
+      "count": 94
+    }
+  ],
+  "words": [
+    {
+      "num": 1,
+      "word": "生涯",
+      "pinyin": "shēngyá",
+      "pos": "n.",
+      "meaning_en": "ช่วงชีวิตการทำงาน, อาชีพ",
+      "id": "人物-1",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 2,
+      "word": "甘愿",
+      "pinyin": "gānyuàn",
+      "pos": "v.",
+      "meaning_en": "ยินดี, สมัครใจ",
+      "id": "人物-2",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 3,
+      "word": "尝试",
+      "pinyin": "chángshì",
+      "pos": "v.",
+      "meaning_en": "ลอง, พยายามทำ",
+      "id": "人物-3",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 4,
+      "word": "遭遇",
+      "pinyin": "zāoyù",
+      "pos": "v.",
+      "meaning_en": "พบเจอ, ประสบ",
+      "id": "人物-4",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 5,
+      "word": "流程",
+      "pinyin": "liúchéng",
+      "pos": "n.",
+      "meaning_en": "กระบวนการ, ขั้นตอน",
+      "id": "人物-5",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 6,
+      "word": "理顺",
+      "pinyin": "lǐshùn",
+      "pos": "vp.",
+      "meaning_en": "จัดระเบียบ, ไล่เรียงให้เป็นระบบ",
+      "id": "人物-6",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 7,
+      "word": "抓狂",
+      "pinyin": "zhuākuáng",
+      "pos": "v.",
+      "meaning_en": "หัวร้อนจัด, เกือบบ้า",
+      "id": "人物-7",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 8,
+      "word": "揭开",
+      "pinyin": "jiēkāi",
+      "pos": "vp.",
+      "meaning_en": "เปิดเผย, เปิดออก",
+      "id": "人物-8",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 9,
+      "word": "事业",
+      "pinyin": "shìyè",
+      "pos": "n.",
+      "meaning_en": "อาชีพ, งานที่มุ่งมั่น",
+      "id": "人物-9",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 10,
+      "word": "寄托",
+      "pinyin": "jìtuō",
+      "pos": "v.",
+      "meaning_en": "ฝากความหวังไว้ที่, มอบความหวังให้",
+      "id": "人物-10",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 11,
+      "word": "期望",
+      "pinyin": "qīwàng",
+      "pos": "v.",
+      "meaning_en": "คาดหวัง, รอคอย",
+      "id": "人物-11",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 12,
+      "word": "并非",
+      "pinyin": "bìngfēi",
+      "pos": "v.",
+      "meaning_en": "ไม่ใช่, มิได้เป็น",
+      "id": "人物-12",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 13,
+      "word": "一帆风顺",
+      "pinyin": "yīfān-fēngshùn",
+      "pos": "IE",
+      "meaning_en": "ราบรื่นดี, ทุกอย่างลื่นไหล",
+      "id": "人物-13",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 14,
+      "word": "试营业",
+      "pinyin": "shìyíngyè",
+      "pos": "vp.",
+      "meaning_en": "เปิดทดลองขาย (soft opening)",
+      "id": "人物-14",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 15,
+      "word": "充斥",
+      "pinyin": "chōngchì",
+      "pos": "v.",
+      "meaning_en": "เต็มไปด้วย, แน่นขนัด",
+      "id": "人物-15",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 16,
+      "word": "插曲",
+      "pinyin": "chāqǔ",
+      "pos": "n.",
+      "meaning_en": "ตอนแทรก, เรื่องราวแทรก",
+      "id": "人物-16",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 17,
+      "word": "焦虑",
+      "pinyin": "jiāolǜ",
+      "pos": "adj.",
+      "meaning_en": "กังวล, วิตก",
+      "id": "人物-17",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 18,
+      "word": "无语",
+      "pinyin": "wúyǔ",
+      "pos": "v.",
+      "meaning_en": "พูดไม่ออก, เงียบไป",
+      "id": "人物-18",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 19,
+      "word": "清爽",
+      "pinyin": "qīngshuǎng",
+      "pos": "adj.",
+      "meaning_en": "สดชื่น, เย็นสบาย",
+      "id": "人物-19",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 20,
+      "word": "清香",
+      "pinyin": "qīngxiāng",
+      "pos": "n.",
+      "meaning_en": "กลิ่นหอม",
+      "id": "人物-20",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 21,
+      "word": "清晨",
+      "pinyin": "qīngchén",
+      "pos": "n.",
+      "meaning_en": "เช้าตรู่, ตอนเช้า",
+      "id": "人物-21",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 22,
+      "word": "采购",
+      "pinyin": "cǎigòu",
+      "pos": "v.",
+      "meaning_en": "ซื้อ, จัดซื้อ",
+      "id": "人物-22",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 23,
+      "word": "食材",
+      "pinyin": "shícái",
+      "pos": "n.",
+      "meaning_en": "วัตถุดิบอาหาร",
+      "id": "人物-23",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 24,
+      "word": "环节",
+      "pinyin": "huánjié",
+      "pos": "n.",
+      "meaning_en": "ขั้นตอน, ส่วนหนึ่งของกระบวนการ",
+      "id": "人物-24",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 25,
+      "word": "挑选",
+      "pinyin": "tiāoxuǎn",
+      "pos": "v.",
+      "meaning_en": "เลือก, คัดเลือก",
+      "id": "人物-25",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 26,
+      "word": "早市",
+      "pinyin": "zǎoshì",
+      "pos": "n.",
+      "meaning_en": "ตลาดเช้า",
+      "id": "人物-26",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 27,
+      "word": "摊贩",
+      "pinyin": "tānfàn",
+      "pos": "n.",
+      "meaning_en": "แม่ค้า, คนขายของ",
+      "id": "人物-27",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 28,
+      "word": "熙熙攘攘",
+      "pinyin": "xīxī-rǎngrǎng",
+      "pos": "IE",
+      "meaning_en": "คนเดินพลุกพล่าน, คึกคัก",
+      "id": "人物-28",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 29,
+      "word": "见识",
+      "pinyin": "jiànshí",
+      "pos": "v.",
+      "meaning_en": "ได้รู้, ได้เห็น, เปิดวิสัยทัศน์",
+      "id": "人物-29",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 30,
+      "word": "置身",
+      "pinyin": "zhìshēn",
+      "pos": "v.",
+      "meaning_en": "อยู่ท่ามกลาง, ตั้งตัวอยู่ใน",
+      "id": "人物-30",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 31,
+      "word": "俨然",
+      "pinyin": "yǎnrán",
+      "pos": "adv.",
+      "meaning_en": "ราวกับ, เหมือนกับ",
+      "id": "人物-31",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 32,
+      "word": "童话",
+      "pinyin": "tónghuà",
+      "pos": "n.",
+      "meaning_en": "เทพนิยาย",
+      "id": "人物-32",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 33,
+      "word": "哭笑不得",
+      "pinyin": "kūxiào-bùdé",
+      "pos": "IE",
+      "meaning_en": "ไร้จะร้องไห้ไร้จะหัวเราะ, งงงวย",
+      "id": "人物-33",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 34,
+      "word": "开端",
+      "pinyin": "kāiduān",
+      "pos": "n.",
+      "meaning_en": "จุดเริ่มต้น",
+      "id": "人物-34",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 35,
+      "word": "时光",
+      "pinyin": "shíguāng",
+      "pos": "n.",
+      "meaning_en": "กาลเวลา, ช่วงเวลา",
+      "id": "人物-35",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 36,
+      "word": "毅然",
+      "pinyin": "yìrán",
+      "pos": "adv.",
+      "meaning_en": "อย่างเด็ดขาด, มุ่งมั่น",
+      "id": "人物-36",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 37,
+      "word": "出入",
+      "pinyin": "chūrù",
+      "pos": "n.",
+      "meaning_en": "รายรับรายจ่าย, ความคลาดเคลื่อน",
+      "id": "人物-37",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 38,
+      "word": "节奏",
+      "pinyin": "jiézòu",
+      "pos": "n.",
+      "meaning_en": "จังหวะ",
+      "id": "人物-38",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 39,
+      "word": "人际关系",
+      "pinyin": "rénjì-guānxì",
+      "pos": "np.",
+      "meaning_en": "ความสัมพันธ์ระหว่างคน",
+      "id": "人物-39",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 40,
+      "word": "喘气",
+      "pinyin": "chuǎnqì",
+      "pos": "v.",
+      "meaning_en": "หายใจ, หอบ",
+      "id": "人物-40",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 41,
+      "word": "向往",
+      "pinyin": "xiàngwǎng",
+      "pos": "v.",
+      "meaning_en": "โหยหา, ใฝ่ฝัน",
+      "id": "人物-41",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 42,
+      "word": "美学",
+      "pinyin": "měixué",
+      "pos": "n.",
+      "meaning_en": "สุนทรียศาสตร์, ความงาม",
+      "id": "人物-42",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 43,
+      "word": "家居",
+      "pinyin": "jiājū",
+      "pos": "n.",
+      "meaning_en": "ของใช้ในบ้าน, การตกแต่งบ้าน",
+      "id": "人物-43",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 44,
+      "word": "收藏",
+      "pinyin": "shōucáng",
+      "pos": "v.",
+      "meaning_en": "สะสม, เก็บรักษา",
+      "id": "人物-44",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 45,
+      "word": "海量",
+      "pinyin": "hǎiliàng",
+      "pos": "adj.",
+      "meaning_en": "จำนวนมหาศาล, เยอะมาก",
+      "id": "人物-45",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 46,
+      "word": "蓄谋已久",
+      "pinyin": "xùmóu-yǐjiǔ",
+      "pos": "IE",
+      "meaning_en": "วางแผนมานาน, เตรียมการมานาน",
+      "id": "人物-46",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 47,
+      "word": "筹备",
+      "pinyin": "chóubèi",
+      "pos": "v.",
+      "meaning_en": "เตรียมการ, จัดเตรียม",
+      "id": "人物-47",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 48,
+      "word": "面子",
+      "pinyin": "miànzi",
+      "pos": "n.",
+      "meaning_en": "หน้า, ศักดิ์ศรี, เกียรติ",
+      "id": "人物-48",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 49,
+      "word": "新奇",
+      "pinyin": "xīnqí",
+      "pos": "adj.",
+      "meaning_en": "ใหม่, แปลกตา",
+      "id": "人物-49",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 50,
+      "word": "职场",
+      "pinyin": "zhíchǎng",
+      "pos": "n.",
+      "meaning_en": "ที่ทำงาน, ตลาดแรงงาน",
+      "id": "人物-50",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 51,
+      "word": "喜悦",
+      "pinyin": "xǐyuè",
+      "pos": "adj.",
+      "meaning_en": "ยินดี, เปี่ยมสุข",
+      "id": "人物-51",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 52,
+      "word": "研发",
+      "pinyin": "yánfā",
+      "pos": "v.",
+      "meaning_en": "วิจัยและพัฒนา",
+      "id": "人物-52",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 53,
+      "word": "款",
+      "pinyin": "kuǎn",
+      "pos": "m.",
+      "meaning_en": "แบบ, รุ่น, สไตล์",
+      "id": "人物-53",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 54,
+      "word": "食客",
+      "pinyin": "shíkè",
+      "pos": "n.",
+      "meaning_en": "นักกิน, ลูกค้าร้านอาหาร",
+      "id": "人物-54",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 55,
+      "word": "演艺圈",
+      "pinyin": "yǎnyìquān",
+      "pos": "np.",
+      "meaning_en": "วงการบันเทิง, วงการแสดง",
+      "id": "人物-55",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 56,
+      "word": "座上宾",
+      "pinyin": "zuòshàngbīn",
+      "pos": "np.",
+      "meaning_en": "แขกคนสำคัญ, แขก VIP",
+      "id": "人物-56",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 57,
+      "word": "未曾",
+      "pinyin": "wèicéng",
+      "pos": "adv.",
+      "meaning_en": "ไม่เคย, ยังไม่เคย",
+      "id": "人物-57",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 58,
+      "word": "机遇",
+      "pinyin": "jīyù",
+      "pos": "n.",
+      "meaning_en": "โอกาส",
+      "id": "人物-58",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 59,
+      "word": "储存",
+      "pinyin": "chǔcún",
+      "pos": "v.",
+      "meaning_en": "เก็บ, สำรอง",
+      "id": "人物-59",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 60,
+      "word": "容器",
+      "pinyin": "róngqì",
+      "pos": "n.",
+      "meaning_en": "ภาชนะ, ที่ใส่ของ",
+      "id": "人物-60",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 61,
+      "word": "即将",
+      "pinyin": "jíjiāng",
+      "pos": "adv.",
+      "meaning_en": "ใกล้จะ, กำลังจะ",
+      "id": "人物-61",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 62,
+      "word": "忙碌",
+      "pinyin": "mánglù",
+      "pos": "adj.",
+      "meaning_en": "ยุ่ง, งานล้นมือ",
+      "id": "人物-62",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 63,
+      "word": "诞生",
+      "pinyin": "dànshēng",
+      "pos": "v.",
+      "meaning_en": "เกิด, ถือกำเนิด",
+      "id": "人物-63",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 64,
+      "word": "传达",
+      "pinyin": "chuándá",
+      "pos": "v.",
+      "meaning_en": "ถ่ายทอด, สื่อสาร",
+      "id": "人物-64",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 65,
+      "word": "互动",
+      "pinyin": "hùdòng",
+      "pos": "v.",
+      "meaning_en": "มีปฏิสัมพันธ์, โต้ตอบ",
+      "id": "人物-65",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 66,
+      "word": "布置",
+      "pinyin": "bùzhì",
+      "pos": "v.",
+      "meaning_en": "จัด, จัดวาง",
+      "id": "人物-66",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 67,
+      "word": "氛围",
+      "pinyin": "fēnwéi",
+      "pos": "n.",
+      "meaning_en": "บรรยากาศ",
+      "id": "人物-67",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 68,
+      "word": "定位",
+      "pinyin": "dìngwèi",
+      "pos": "v.",
+      "meaning_en": "กำหนดตำแหน่ง, วางตำแหน่ง",
+      "id": "人物-68",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 69,
+      "word": "好事多磨",
+      "pinyin": "hǎoshì-duōmó",
+      "pos": "IE",
+      "meaning_en": "เรื่องดีๆ มักมีอุปสรรคกว่าจะสำเร็จ",
+      "id": "人物-69",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 70,
+      "word": "照例",
+      "pinyin": "zhàolì",
+      "pos": "adv.",
+      "meaning_en": "ตามปกติ, ตามเคย",
+      "id": "人物-70",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 71,
+      "word": "魔术",
+      "pinyin": "móshù",
+      "pos": "n.",
+      "meaning_en": "มายากล, เวทมนตร์",
+      "id": "人物-71",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 72,
+      "word": "密封",
+      "pinyin": "mìfēng",
+      "pos": "v.",
+      "meaning_en": "ปิดผนึก, ซีล",
+      "id": "人物-72",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 73,
+      "word": "苍白",
+      "pinyin": "cāngbái",
+      "pos": "adj.",
+      "meaning_en": "ซีด, ซีดเผย",
+      "id": "人物-73",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 74,
+      "word": "惯性",
+      "pinyin": "guànxìng",
+      "pos": "n.",
+      "meaning_en": "แรงเฉื่อย",
+      "id": "人物-74",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 75,
+      "word": "匀速",
+      "pinyin": "yúnsù",
+      "pos": "adj.",
+      "meaning_en": "ด้วยความเร็วคงที่",
+      "id": "人物-75",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 76,
+      "word": "晦涩",
+      "pinyin": "huìsè",
+      "pos": "adj.",
+      "meaning_en": "ลึกซึ้ง, เข้าใจยาก",
+      "id": "人物-76",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 77,
+      "word": "瞬间",
+      "pinyin": "shùnjiān",
+      "pos": "n.",
+      "meaning_en": "ชั่วขณะ, อึดใจเดียว",
+      "id": "人物-77",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 78,
+      "word": "旋转",
+      "pinyin": "xuánzhuǎn",
+      "pos": "v.",
+      "meaning_en": "หมุน, หมุนรอบ",
+      "id": "人物-78",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 79,
+      "word": "捆",
+      "pinyin": "kǔn",
+      "pos": "v.",
+      "meaning_en": "มัด, ผูก",
+      "id": "人物-79",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 80,
+      "word": "神奇",
+      "pinyin": "shénqí",
+      "pos": "adj.",
+      "meaning_en": "วิเศษ, มหัศจรรย์",
+      "id": "人物-80",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 81,
+      "word": "原理",
+      "pinyin": "yuánlǐ",
+      "pos": "n.",
+      "meaning_en": "ทฤษฎี, หลักการ",
+      "id": "人物-81",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 82,
+      "word": "自然而然",
+      "pinyin": "zìrán-érrán",
+      "pos": "IE",
+      "meaning_en": "เป็นธรรมดา, ตามธรรมชาติ",
+      "id": "人物-82",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 83,
+      "word": "科研",
+      "pinyin": "kēyán",
+      "pos": "v.",
+      "meaning_en": "ทำวิจัยทางวิทยาศาสตร์",
+      "id": "人物-83",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 84,
+      "word": "科普",
+      "pinyin": "kēpǔ",
+      "pos": "v.",
+      "meaning_en": "เผยแพร่วิทยาศาสตร์",
+      "id": "人物-84",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 85,
+      "word": "道具",
+      "pinyin": "dàojù",
+      "pos": "n.",
+      "meaning_en": "อุปกรณ์ประกอบฉาก",
+      "id": "人物-85",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 86,
+      "word": "现场",
+      "pinyin": "xiànchǎng",
+      "pos": "n.",
+      "meaning_en": "สถานที่เกิดเหตุ, ฉาก",
+      "id": "人物-86",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 87,
+      "word": "联想",
+      "pinyin": "liánxiǎng",
+      "pos": "v.",
+      "meaning_en": "นึกถึง, โยงใยทางความคิด",
+      "id": "人物-87",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 88,
+      "word": "乏味",
+      "pinyin": "fáwèi",
+      "pos": "adj.",
+      "meaning_en": "น่าเบื่อ, จืดชืด",
+      "id": "人物-88",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 89,
+      "word": "储蓄罐",
+      "pinyin": "chǔxùguàn",
+      "pos": "np.",
+      "meaning_en": "กระปุกออมเงิน",
+      "id": "人物-89",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 90,
+      "word": "粉末",
+      "pinyin": "fěnmò",
+      "pos": "n.",
+      "meaning_en": "ผง, ผงละเอียด",
+      "id": "人物-90",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 91,
+      "word": "思维",
+      "pinyin": "sīwéi",
+      "pos": "n.",
+      "meaning_en": "การคิด, ความคิด",
+      "id": "人物-91",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 92,
+      "word": "天生",
+      "pinyin": "tiānshēng",
+      "pos": "adj.",
+      "meaning_en": "โดยกำเนิด, แต่กำเนิด",
+      "id": "人物-92",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 93,
+      "word": "薄荷",
+      "pinyin": "bòhé",
+      "pos": "n.",
+      "meaning_en": "สะระแหน่",
+      "id": "人物-93",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 94,
+      "word": "柠檬",
+      "pinyin": "níngméng",
+      "pos": "n.",
+      "meaning_en": "มะนาว",
+      "id": "人物-94",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 95,
+      "word": "酸丹",
+      "pinyin": "suāndān",
+      "pos": "n.",
+      "meaning_en": "มะนาวเล็ก, ส้มขม",
+      "id": "人物-95",
+      "chapter": "人物",
+      "chapter_en": "People"
+    },
+    {
+      "num": 1,
+      "word": "达人",
+      "pinyin": "dárén",
+      "pos": "n.",
+      "meaning_en": "ผู้เชี่ยวชาญ, มือโปร",
+      "id": "职业-1",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 2,
+      "word": "晋级",
+      "pinyin": "jìnjí",
+      "pos": "v.",
+      "meaning_en": "ผ่านเข้ารอบถัดไป",
+      "id": "职业-2",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 3,
+      "word": "陪同",
+      "pinyin": "péitóng",
+      "pos": "v.",
+      "meaning_en": "ไปด้วย, ร่วมเดินทาง",
+      "id": "职业-3",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 4,
+      "word": "面试官",
+      "pinyin": "miànshìguān",
+      "pos": "np.",
+      "meaning_en": "ผู้สัมภาษณ์",
+      "id": "职业-4",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 5,
+      "word": "职场",
+      "pinyin": "zhíchǎng",
+      "pos": "n.",
+      "meaning_en": "ที่ทำงาน, ตลาดแรงงาน",
+      "id": "职业-5",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 6,
+      "word": "表态",
+      "pinyin": "biǎotài",
+      "pos": "v.",
+      "meaning_en": "แสดงจุดยืน, ชี้แจงท่าที",
+      "id": "职业-6",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 7,
+      "word": "爆",
+      "pinyin": "bào",
+      "pos": "v.",
+      "meaning_en": "ระเบิด, แตก, ฮิตมาก",
+      "id": "职业-7",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 8,
+      "word": "达成",
+      "pinyin": "dáchéng",
+      "pos": "v.",
+      "meaning_en": "บรรลุ",
+      "id": "职业-8",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 9,
+      "word": "协议",
+      "pinyin": "xiéyì",
+      "pos": "IE",
+      "meaning_en": "ข้อตกลง, สัญญา",
+      "id": "职业-9",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 10,
+      "word": "盏",
+      "pinyin": "zhǎn",
+      "pos": "n.",
+      "meaning_en": "ลักษณนาม (โคมไฟ)",
+      "id": "职业-10",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 11,
+      "word": "任意",
+      "pinyin": "rènyì",
+      "pos": "m.",
+      "meaning_en": "ใดๆ, อะไรก็ได้",
+      "id": "职业-11",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 12,
+      "word": "剪辑",
+      "pinyin": "jiǎnjí",
+      "pos": "adj.",
+      "meaning_en": "ตัดต่อ (วิดีโอ)",
+      "id": "职业-12",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 13,
+      "word": "恰恰",
+      "pinyin": "qiàqià",
+      "pos": "v.",
+      "meaning_en": "พอดี, ตรงๆ",
+      "id": "职业-13",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 14,
+      "word": "唐装",
+      "pinyin": "tángzhuāng",
+      "pos": "adv.",
+      "meaning_en": "ชุดจีน (唐装)",
+      "id": "职业-14",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 15,
+      "word": "产业",
+      "pinyin": "chǎnyè",
+      "pos": "n.",
+      "meaning_en": "อุตสาหกรรม",
+      "id": "职业-15",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 16,
+      "word": "月薪",
+      "pinyin": "yuèxīn",
+      "pos": "n.",
+      "meaning_en": "เงินเดือนรายเดือน",
+      "id": "职业-16",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 17,
+      "word": "掌声如雷",
+      "pinyin": "zhǎngshēng-rúléi",
+      "pos": "IE",
+      "meaning_en": "เสียงปรบมือดังสนั่น",
+      "id": "职业-17",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 18,
+      "word": "差异",
+      "pinyin": "chāyì",
+      "pos": "v.",
+      "meaning_en": "ความแตกต่าง",
+      "id": "职业-18",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 19,
+      "word": "航拍",
+      "pinyin": "hángpāi",
+      "pos": "n.",
+      "meaning_en": "ถ่ายภาพทางอากาศ",
+      "id": "职业-19",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 20,
+      "word": "节奏",
+      "pinyin": "jiézòu",
+      "pos": "n.",
+      "meaning_en": "จังหวะ",
+      "id": "职业-20",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 21,
+      "word": "高架桥",
+      "pinyin": "gāojiàqiáo",
+      "pos": "n.",
+      "meaning_en": "สะพานลอย",
+      "id": "职业-21",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 22,
+      "word": "美食",
+      "pinyin": "měishí",
+      "pos": "n.",
+      "meaning_en": "อาหารเลิศรส",
+      "id": "职业-22",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 23,
+      "word": "屯",
+      "pinyin": "tún",
+      "pos": "n.",
+      "meaning_en": "ตุน",
+      "id": "职业-23",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 24,
+      "word": "出镜",
+      "pinyin": "chūjìng",
+      "pos": "v.",
+      "meaning_en": "ปรากฏบนกล้อง",
+      "id": "职业-24",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 25,
+      "word": "扎",
+      "pinyin": "zhā",
+      "pos": "v.",
+      "meaning_en": "ผูก",
+      "id": "职业-25",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 26,
+      "word": "乐趣",
+      "pinyin": "lèqù",
+      "pos": "n.",
+      "meaning_en": "ความสนุก, ความเพลิดเพลิน",
+      "id": "职业-26",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 27,
+      "word": "鼻梁",
+      "pinyin": "bíliáng",
+      "pos": "n.",
+      "meaning_en": "สะพานจมูก",
+      "id": "职业-27",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 28,
+      "word": "吸血鬼",
+      "pinyin": "xīxuèguǐ",
+      "pos": "n.",
+      "meaning_en": "แวมไพร์",
+      "id": "职业-28",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 29,
+      "word": "蝙蝠",
+      "pinyin": "biānfú",
+      "pos": "n.",
+      "meaning_en": "ค้างคาว",
+      "id": "职业-29",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 30,
+      "word": "展示",
+      "pinyin": "zhǎnshì",
+      "pos": "v.",
+      "meaning_en": "จัดแสดง",
+      "id": "职业-30",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 31,
+      "word": "宫殿",
+      "pinyin": "gōngdiàn",
+      "pos": "n.",
+      "meaning_en": "พระราชวัง",
+      "id": "职业-31",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 32,
+      "word": "墓地",
+      "pinyin": "mùdì",
+      "pos": "n.",
+      "meaning_en": "สุสาน",
+      "id": "职业-32",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 33,
+      "word": "陨落",
+      "pinyin": "yǔnluò",
+      "pos": "v.",
+      "meaning_en": "ตก",
+      "id": "职业-33",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 34,
+      "word": "城堡",
+      "pinyin": "chéngbǎo",
+      "pos": "n.",
+      "meaning_en": "ปราสาท",
+      "id": "职业-34",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 35,
+      "word": "狼人",
+      "pinyin": "lángrén",
+      "pos": "np.",
+      "meaning_en": "มนุษย์หมาป่า",
+      "id": "职业-35",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 36,
+      "word": "英雄救美",
+      "pinyin": "yīngxióng-jiùměi",
+      "pos": "IE",
+      "meaning_en": "ฮีโร่กอบกู้ความงาม",
+      "id": "职业-36",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 37,
+      "word": "思路",
+      "pinyin": "sīlù",
+      "pos": "n.",
+      "meaning_en": "ไอเดีย",
+      "id": "职业-37",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 38,
+      "word": "描绘",
+      "pinyin": "miáohuì",
+      "pos": "v.",
+      "meaning_en": "อธิบาย",
+      "id": "职业-38",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 39,
+      "word": "主线",
+      "pinyin": "zhǔxiàn",
+      "pos": "n.",
+      "meaning_en": "สายหลัก",
+      "id": "职业-39",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 40,
+      "word": "主流",
+      "pinyin": "zhǔliú",
+      "pos": "n.",
+      "meaning_en": "กระแสหลัก",
+      "id": "职业-40",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 41,
+      "word": "价值观",
+      "pinyin": "jiàzhíguān",
+      "pos": "n.",
+      "meaning_en": "ค่านิยม",
+      "id": "职业-41",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 42,
+      "word": "吻合",
+      "pinyin": "wěnhé",
+      "pos": "adj.",
+      "meaning_en": "จับคู่",
+      "id": "职业-42",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 43,
+      "word": "上映",
+      "pinyin": "shàngyìng",
+      "pos": "v.",
+      "meaning_en": "ฉาย, ออกฉาย",
+      "id": "职业-43",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 44,
+      "word": "善始善终",
+      "pinyin": "shànshǐ-shànzhōng",
+      "pos": "v.",
+      "meaning_en": "การเริ่มต้นที่ดีและจุดสิ้นสุดที่ดี",
+      "id": "职业-44",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 45,
+      "word": "结局",
+      "pinyin": "jiéjú",
+      "pos": "n.",
+      "meaning_en": "สิ้นสุด",
+      "id": "职业-45",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 46,
+      "word": "蒙太奇",
+      "pinyin": "méngtàiqí",
+      "pos": "IE",
+      "meaning_en": "การตัดต่อ",
+      "id": "职业-46",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 47,
+      "word": "串联",
+      "pinyin": "chuànlián",
+      "pos": "n.",
+      "meaning_en": "การเชื่อมต่อแบบอนุกรม",
+      "id": "职业-47",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 48,
+      "word": "版本",
+      "pinyin": "bǎnběn",
+      "pos": "n.",
+      "meaning_en": "เวอร์ชัน",
+      "id": "职业-48",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 49,
+      "word": "反转",
+      "pinyin": "fǎnzhuǎn",
+      "pos": "v.",
+      "meaning_en": "ย้อนกลับ",
+      "id": "职业-49",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 50,
+      "word": "情节",
+      "pinyin": "qíngjié",
+      "pos": "n.",
+      "meaning_en": "พล็อต",
+      "id": "职业-50",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 51,
+      "word": "商议",
+      "pinyin": "shāngyì",
+      "pos": "v.",
+      "meaning_en": "หารือ",
+      "id": "职业-51",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 52,
+      "word": "领会",
+      "pinyin": "lǐnghuì",
+      "pos": "v.",
+      "meaning_en": "เข้าใจ",
+      "id": "职业-52",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 53,
+      "word": "成型",
+      "pinyin": "chéngxíng",
+      "pos": "v.",
+      "meaning_en": "การขึ้นรูป",
+      "id": "职业-53",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 54,
+      "word": "创意",
+      "pinyin": "chuàngyì",
+      "pos": "n.",
+      "meaning_en": "ความคิดสร้างสรรค์",
+      "id": "职业-54",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 55,
+      "word": "归整",
+      "pinyin": "guīzhěng",
+      "pos": "v.",
+      "meaning_en": "จัดระเบียบใหม่",
+      "id": "职业-55",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 56,
+      "word": "深邃",
+      "pinyin": "shēnsuì",
+      "pos": "adj.",
+      "meaning_en": "ลึกซึ้ง",
+      "id": "职业-56",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 57,
+      "word": "诡异",
+      "pinyin": "guǐyì",
+      "pos": "adj.",
+      "meaning_en": "แปลก",
+      "id": "职业-57",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 58,
+      "word": "陡峭",
+      "pinyin": "dǒuqiào",
+      "pos": "adj.",
+      "meaning_en": "สูงชัน",
+      "id": "职业-58",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 59,
+      "word": "生气",
+      "pinyin": "shēngqì",
+      "pos": "n.",
+      "meaning_en": "โกรธ",
+      "id": "职业-59",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 60,
+      "word": "魔力",
+      "pinyin": "mólì",
+      "pos": "n.",
+      "meaning_en": "มายากล",
+      "id": "职业-60",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 61,
+      "word": "敏锐",
+      "pinyin": "mǐnruì",
+      "pos": "n.",
+      "meaning_en": "กระตือรือร้น",
+      "id": "职业-61",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 62,
+      "word": "利索",
+      "pinyin": "lìsuǒ",
+      "pos": "adj.",
+      "meaning_en": "ประณีต",
+      "id": "职业-62",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 63,
+      "word": "踏实",
+      "pinyin": "tàshí",
+      "pos": "adj.",
+      "meaning_en": "แน่วแน่",
+      "id": "职业-63",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 64,
+      "word": "撑门面",
+      "pinyin": "chēngménmiàn",
+      "pos": "IE",
+      "meaning_en": "เฝ้าส่วนหน้าต่อไป",
+      "id": "职业-64",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 65,
+      "word": "营销",
+      "pinyin": "yíngxiāo",
+      "pos": "v.",
+      "meaning_en": "การตลาด",
+      "id": "职业-65",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 66,
+      "word": "周刊",
+      "pinyin": "zhōukān",
+      "pos": "n.",
+      "meaning_en": "รายสัปดาห์",
+      "id": "职业-66",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 67,
+      "word": "封面",
+      "pinyin": "fēngmiàn",
+      "pos": "n.",
+      "meaning_en": "ปิดบัง",
+      "id": "职业-67",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 68,
+      "word": "频繁",
+      "pinyin": "pínfán",
+      "pos": "adj.",
+      "meaning_en": "บ่อย",
+      "id": "职业-68",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 69,
+      "word": "餐饮业",
+      "pinyin": "cānyǐnyè",
+      "pos": "np.",
+      "meaning_en": "อุตสาหกรรมการจัดเลี้ยง",
+      "id": "职业-69",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 70,
+      "word": "门槛",
+      "pinyin": "ménkǎn",
+      "pos": "n.",
+      "meaning_en": "เกณฑ์",
+      "id": "职业-70",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 71,
+      "word": "清晰",
+      "pinyin": "qīngxī",
+      "pos": "adj.",
+      "meaning_en": "ชัดเจน",
+      "id": "职业-71",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 72,
+      "word": "之所以",
+      "pinyin": "zhīsuǒyǐ",
+      "pos": "conj.",
+      "meaning_en": "เหตุผล",
+      "id": "职业-72",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 73,
+      "word": "接触面",
+      "pinyin": "jiēchùmiàn",
+      "pos": "np.",
+      "meaning_en": "พื้นผิวสัมผัส",
+      "id": "职业-73",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 74,
+      "word": "火爆",
+      "pinyin": "huǒbào",
+      "pos": "adj.",
+      "meaning_en": "ร้อน",
+      "id": "职业-74",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 75,
+      "word": "不符",
+      "pinyin": "bùfú",
+      "pos": "v.",
+      "meaning_en": "ไม่ตรงกัน",
+      "id": "职业-75",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 76,
+      "word": "单一",
+      "pinyin": "dānyī",
+      "pos": "adj.",
+      "meaning_en": "เดี่ยว",
+      "id": "职业-76",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 77,
+      "word": "择业",
+      "pinyin": "zéyè",
+      "pos": "v.",
+      "meaning_en": "เลือกอาชีพ",
+      "id": "职业-77",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 78,
+      "word": "臭豆腐",
+      "pinyin": "chòudòufǔ",
+      "pos": "v.",
+      "meaning_en": "เต้าหู้เหม็น",
+      "id": "职业-78",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 79,
+      "word": "豆汁儿",
+      "pinyin": "dòuzhīér",
+      "pos": "n.",
+      "meaning_en": "โต่วจื้อ",
+      "id": "职业-79",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 80,
+      "word": "豆浆",
+      "pinyin": "dòujiāng",
+      "pos": "n.",
+      "meaning_en": "นมถั่วเหลือง",
+      "id": "职业-80",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 81,
+      "word": "凤",
+      "pinyin": "fèng",
+      "pos": "n.",
+      "meaning_en": "ฟีนิกซ์",
+      "id": "职业-81",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 82,
+      "word": "锅包肉",
+      "pinyin": "guōbāoròu",
+      "pos": "n.",
+      "meaning_en": "กั๋วเป่าโหรว",
+      "id": "职业-82",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 83,
+      "word": "好莱坞",
+      "pinyin": "hǎoláiwù",
+      "pos": "n.",
+      "meaning_en": "ฮอลลีวู้ด",
+      "id": "职业-83",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 84,
+      "word": "拉脱维亚",
+      "pinyin": "lātuō-wéiyà",
+      "pos": "IE",
+      "meaning_en": "ลัตเวีย",
+      "id": "职业-84",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 85,
+      "word": "王府井",
+      "pinyin": "wángfǔjǐng",
+      "pos": "n.",
+      "meaning_en": "หวังฝูจิ่ง",
+      "id": "职业-85",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 86,
+      "word": "东北",
+      "pinyin": "dōngběi",
+      "pos": "n.",
+      "meaning_en": "ตะวันออกเฉียงเหนือ",
+      "id": "职业-86",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 87,
+      "word": "长春",
+      "pinyin": "chángchūn",
+      "pos": "n.",
+      "meaning_en": "ฉางชุน",
+      "id": "职业-87",
+      "chapter": "职业",
+      "chapter_en": "Careers"
+    },
+    {
+      "num": 1,
+      "word": "相亲",
+      "pinyin": "xiāngqīn",
+      "pos": "v.",
+      "meaning_en": "นัดบอด",
+      "id": "爱情-1",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 2,
+      "word": "非",
+      "pinyin": "fēi",
+      "pos": "adv.",
+      "meaning_en": "เลขที่",
+      "id": "爱情-2",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 3,
+      "word": "贤惠",
+      "pinyin": "xiánhuì",
+      "pos": "adj.",
+      "meaning_en": "มีคุณธรรม",
+      "id": "爱情-3",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 4,
+      "word": "精神",
+      "pinyin": "jīngshén",
+      "pos": "n.",
+      "meaning_en": "วิญญาณ",
+      "id": "爱情-4",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 5,
+      "word": "频道",
+      "pinyin": "píndào",
+      "pos": "n.",
+      "meaning_en": "ช่อง",
+      "id": "爱情-5",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 6,
+      "word": "天南地北",
+      "pinyin": "tiānnán-dìběi",
+      "pos": "IE",
+      "meaning_en": "ไปทางทิศเหนือและทิศใต้",
+      "id": "爱情-6",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 7,
+      "word": "待",
+      "pinyin": "dài",
+      "pos": "v.",
+      "meaning_en": "รักษา",
+      "id": "爱情-7",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 8,
+      "word": "看不上",
+      "pinyin": "kànbùshàng",
+      "pos": "IE",
+      "meaning_en": "ดูถูก",
+      "id": "爱情-8",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 9,
+      "word": "绅士",
+      "pinyin": "shēnshì",
+      "pos": "adj.",
+      "meaning_en": "สุภาพบุรุษ",
+      "id": "爱情-9",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 10,
+      "word": "欣赏",
+      "pinyin": "xīnshǎng",
+      "pos": "v.",
+      "meaning_en": "ชื่นชม",
+      "id": "爱情-10",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 11,
+      "word": "方案",
+      "pinyin": "fāngàn",
+      "pos": "n.",
+      "meaning_en": "วางแผน",
+      "id": "爱情-11",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 12,
+      "word": "时常",
+      "pinyin": "shícháng",
+      "pos": "adv.",
+      "meaning_en": "บ่อยครั้ง",
+      "id": "爱情-12",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 13,
+      "word": "幻想",
+      "pinyin": "huànxiǎng",
+      "pos": "v.",
+      "meaning_en": "แฟนตาซี",
+      "id": "爱情-13",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 14,
+      "word": "拥有",
+      "pinyin": "yōngyǒu",
+      "pos": "v.",
+      "meaning_en": "มี",
+      "id": "爱情-14",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 15,
+      "word": "能量",
+      "pinyin": "néngliàng",
+      "pos": "n.",
+      "meaning_en": "พลังงาน",
+      "id": "爱情-15",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 16,
+      "word": "不如人意",
+      "pinyin": "bùrú-rényì",
+      "pos": "IE",
+      "meaning_en": "ไม่น่าพอใจ",
+      "id": "爱情-16",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 17,
+      "word": "人生",
+      "pinyin": "rénshēng",
+      "pos": "n.",
+      "meaning_en": "ชีวิต",
+      "id": "爱情-17",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 18,
+      "word": "实现",
+      "pinyin": "shíxiàn",
+      "pos": "v.",
+      "meaning_en": "ทำให้สำเร็จ",
+      "id": "爱情-18",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 19,
+      "word": "软件",
+      "pinyin": "ruǎnjiàn",
+      "pos": "n.",
+      "meaning_en": "ซอฟต์แวร์",
+      "id": "爱情-19",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 20,
+      "word": "输入",
+      "pinyin": "shūrù",
+      "pos": "v.",
+      "meaning_en": "เข้า",
+      "id": "爱情-20",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 21,
+      "word": "即",
+      "pinyin": "jí",
+      "pos": "adv.",
+      "meaning_en": "ตอนนี้",
+      "id": "爱情-21",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 22,
+      "word": "梦幻",
+      "pinyin": "mènghuàn",
+      "pos": "n.",
+      "meaning_en": "ฝัน",
+      "id": "爱情-22",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 23,
+      "word": "愿望",
+      "pinyin": "yuànwàng",
+      "pos": "n.",
+      "meaning_en": "ความต้องการ",
+      "id": "爱情-23",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 24,
+      "word": "亲爱",
+      "pinyin": "qīnài",
+      "pos": "adj.",
+      "meaning_en": "ที่รัก",
+      "id": "爱情-24",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 25,
+      "word": "人人有责",
+      "pinyin": "rénrén-yǒuzé",
+      "pos": "IE",
+      "meaning_en": "ทุกคนมีความรับผิดชอบ",
+      "id": "爱情-25",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 26,
+      "word": "树苗",
+      "pinyin": "shùmiáo",
+      "pos": "n.",
+      "meaning_en": "ต้นอ่อน",
+      "id": "爱情-26",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 27,
+      "word": "还击",
+      "pinyin": "huánjī",
+      "pos": "v.",
+      "meaning_en": "ต่อสู้กลับ",
+      "id": "爱情-27",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 28,
+      "word": "神明",
+      "pinyin": "shénmíng",
+      "pos": "n.",
+      "meaning_en": "พระเจ้า",
+      "id": "爱情-28",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 29,
+      "word": "保佑",
+      "pinyin": "bǎoyòu",
+      "pos": "v.",
+      "meaning_en": "อวยพร",
+      "id": "爱情-29",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 30,
+      "word": "酒吧",
+      "pinyin": "jiǔbā",
+      "pos": "n.",
+      "meaning_en": "บาร์",
+      "id": "爱情-30",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 31,
+      "word": "吵",
+      "pinyin": "chǎo",
+      "pos": "adj.",
+      "meaning_en": "ทะเลาะ",
+      "id": "爱情-31",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 32,
+      "word": "百依百顺",
+      "pinyin": "bǎiyī-bǎishùn",
+      "pos": "IE",
+      "meaning_en": "การเชื่อฟัง",
+      "id": "爱情-32",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 33,
+      "word": "口味",
+      "pinyin": "kǒuwèi",
+      "pos": "n.",
+      "meaning_en": "รสชาติ",
+      "id": "爱情-33",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 34,
+      "word": "反抗",
+      "pinyin": "fǎnkàng",
+      "pos": "v.",
+      "meaning_en": "ต้านทาน",
+      "id": "爱情-34",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 35,
+      "word": "费劲",
+      "pinyin": "fèijìn",
+      "pos": "v.",
+      "meaning_en": "มีพลัง",
+      "id": "爱情-35",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 36,
+      "word": "自私",
+      "pinyin": "zìsī",
+      "pos": "adj.",
+      "meaning_en": "เห็นแก่ตัว",
+      "id": "爱情-36",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 37,
+      "word": "恨",
+      "pinyin": "hèn",
+      "pos": "v.",
+      "meaning_en": "ความเกลียดชัง",
+      "id": "爱情-37",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 38,
+      "word": "吐",
+      "pinyin": "tǔ",
+      "pos": "adj.",
+      "meaning_en": "อาเจียน",
+      "id": "爱情-38",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 39,
+      "word": "贤淑",
+      "pinyin": "xiánshū",
+      "pos": "adj.",
+      "meaning_en": "มีคุณธรรม",
+      "id": "爱情-39",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 40,
+      "word": "天真",
+      "pinyin": "tiānzhēn",
+      "pos": "adj.",
+      "meaning_en": "ผู้บริสุทธิ์",
+      "id": "爱情-40",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 41,
+      "word": "球拍",
+      "pinyin": "qiúpāi",
+      "pos": "n.",
+      "meaning_en": "แร็กเกต",
+      "id": "爱情-41",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 42,
+      "word": "棒球",
+      "pinyin": "bàngqiú",
+      "pos": "n.",
+      "meaning_en": "เบสบอล",
+      "id": "爱情-42",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 43,
+      "word": "划船",
+      "pinyin": "huáchuán",
+      "pos": "n.",
+      "meaning_en": "พายเรือ",
+      "id": "爱情-43",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 44,
+      "word": "真实",
+      "pinyin": "zhēnshí",
+      "pos": "adj.",
+      "meaning_en": "ความเป็นจริง",
+      "id": "爱情-44",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 45,
+      "word": "从前",
+      "pinyin": "cóngqián",
+      "pos": "n.",
+      "meaning_en": "กาลครั้งหนึ่ง",
+      "id": "爱情-45",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 46,
+      "word": "石匠",
+      "pinyin": "shíjiàng",
+      "pos": "n.",
+      "meaning_en": "เมสัน",
+      "id": "爱情-46",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 47,
+      "word": "梦想",
+      "pinyin": "mèngxiǎng",
+      "pos": "v.",
+      "meaning_en": "ความฝัน",
+      "id": "爱情-47",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 48,
+      "word": "雕刻",
+      "pinyin": "diāokè",
+      "pos": "v.",
+      "meaning_en": "แกะสลัก",
+      "id": "爱情-48",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 49,
+      "word": "完美",
+      "pinyin": "wánměi",
+      "pos": "adj.",
+      "meaning_en": "สมบูรณ์แบบ",
+      "id": "爱情-49",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 50,
+      "word": "恋人",
+      "pinyin": "liànrén",
+      "pos": "n.",
+      "meaning_en": "คนรัก",
+      "id": "爱情-50",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 51,
+      "word": "形象",
+      "pinyin": "xíngxiàng",
+      "pos": "n.",
+      "meaning_en": "ภาพ",
+      "id": "爱情-51",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 52,
+      "word": "不断",
+      "pinyin": "bùduàn",
+      "pos": "adv.",
+      "meaning_en": "อย่างสม่ำเสมอ",
+      "id": "爱情-52",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 53,
+      "word": "修改",
+      "pinyin": "xiūgǎi",
+      "pos": "v.",
+      "meaning_en": "ปรับปรุงใหม่",
+      "id": "爱情-53",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 54,
+      "word": "恍然",
+      "pinyin": "huǎngrán",
+      "pos": "adj.",
+      "meaning_en": "กะทันหัน",
+      "id": "爱情-54",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 55,
+      "word": "自我",
+      "pinyin": "zìwǒ",
+      "pos": "pron",
+      "meaning_en": "ตัวเอง",
+      "id": "爱情-55",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 56,
+      "word": "回归",
+      "pinyin": "huíguī",
+      "pos": "v.",
+      "meaning_en": "กลับ",
+      "id": "爱情-56",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 57,
+      "word": "现实",
+      "pinyin": "xiànshí",
+      "pos": "n.",
+      "meaning_en": "ความเป็นจริง",
+      "id": "爱情-57",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 58,
+      "word": "付出",
+      "pinyin": "fùchū",
+      "pos": "v.",
+      "meaning_en": "จ่าย",
+      "id": "爱情-58",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 59,
+      "word": "代价",
+      "pinyin": "dàijià",
+      "pos": "n.",
+      "meaning_en": "ค่าใช้จ่าย, ราคา",
+      "id": "爱情-59",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 60,
+      "word": "伤害",
+      "pinyin": "shānghài",
+      "pos": "v.",
+      "meaning_en": "อันตราย",
+      "id": "爱情-60",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 61,
+      "word": "挑",
+      "pinyin": "tiāo",
+      "pos": "v.",
+      "meaning_en": "เลือก",
+      "id": "爱情-61",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 62,
+      "word": "异地",
+      "pinyin": "yìdì",
+      "pos": "n.",
+      "meaning_en": "สถานที่ห่างไกล",
+      "id": "爱情-62",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 63,
+      "word": "各奔东西",
+      "pinyin": "gèbēn-dōngxī",
+      "pos": "IE",
+      "meaning_en": "ไปตามทางที่แยกจากกัน",
+      "id": "爱情-63",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 64,
+      "word": "顺心",
+      "pinyin": "shùnxīn",
+      "pos": "adj.",
+      "meaning_en": "พอใจ",
+      "id": "爱情-64",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 65,
+      "word": "勾搭",
+      "pinyin": "gōudā",
+      "pos": "v.",
+      "meaning_en": "ขอขึ้น",
+      "id": "爱情-65",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 66,
+      "word": "诱惑",
+      "pinyin": "yòuhuò",
+      "pos": "v.",
+      "meaning_en": "ล่อ",
+      "id": "爱情-66",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 67,
+      "word": "甩",
+      "pinyin": "shuǎi",
+      "pos": "v.",
+      "meaning_en": "โยนทิ้งไป",
+      "id": "爱情-67",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 68,
+      "word": "奢侈",
+      "pinyin": "shēchǐ",
+      "pos": "adj.",
+      "meaning_en": "หรูหรา",
+      "id": "爱情-68",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 69,
+      "word": "包容",
+      "pinyin": "bāoróng",
+      "pos": "v.",
+      "meaning_en": "ทนต่อ",
+      "id": "爱情-69",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 70,
+      "word": "信任",
+      "pinyin": "xìnrèn",
+      "pos": "v.",
+      "meaning_en": "เชื่อมั่น",
+      "id": "爱情-70",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 71,
+      "word": "肩负",
+      "pinyin": "jiānfù",
+      "pos": "v.",
+      "meaning_en": "ไหล่",
+      "id": "爱情-71",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 72,
+      "word": "劈腿",
+      "pinyin": "pītuǐ",
+      "pos": "v.",
+      "meaning_en": "การโกง",
+      "id": "爱情-72",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 73,
+      "word": "出轨",
+      "pinyin": "chūguǐ",
+      "pos": "v.",
+      "meaning_en": "การโกง",
+      "id": "爱情-73",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 74,
+      "word": "海誓山盟",
+      "pinyin": "hǎishì-shānméng",
+      "pos": "IE",
+      "meaning_en": "กันและกัน",
+      "id": "爱情-74",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 75,
+      "word": "未来",
+      "pinyin": "wèilái",
+      "pos": "n.",
+      "meaning_en": "อนาคต",
+      "id": "爱情-75",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 76,
+      "word": "变数",
+      "pinyin": "biànshù",
+      "pos": "n.",
+      "meaning_en": "ตัวแปร",
+      "id": "爱情-76",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 77,
+      "word": "孤独",
+      "pinyin": "gūdú",
+      "pos": "adj.",
+      "meaning_en": "เหงา",
+      "id": "爱情-77",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 78,
+      "word": "黑芝麻",
+      "pinyin": "hēizhīmá",
+      "pos": "adj.",
+      "meaning_en": "เมล็ดงาดำ",
+      "id": "爱情-78",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 79,
+      "word": "花生",
+      "pinyin": "huāshēng",
+      "pos": "n.",
+      "meaning_en": "ถั่วลิสง",
+      "id": "爱情-79",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 80,
+      "word": "枣泥",
+      "pinyin": "zǎoní",
+      "pos": "n.",
+      "meaning_en": "ไส้ทับทิม (ใส้ขนม)",
+      "id": "爱情-80",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 81,
+      "word": "玉米",
+      "pinyin": "yùmǐ",
+      "pos": "n.",
+      "meaning_en": "ข้าวโพด",
+      "id": "爱情-81",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 82,
+      "word": "豆沙",
+      "pinyin": "dòushā",
+      "pos": "n.",
+      "meaning_en": "ถั่วบด",
+      "id": "爱情-82",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 83,
+      "word": "五仁",
+      "pinyin": "wǔrén",
+      "pos": "n.",
+      "meaning_en": "ความเมตตากรุณาห้าประการ",
+      "id": "爱情-83",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 84,
+      "word": "八宝",
+      "pinyin": "bābǎo",
+      "pos": "n.",
+      "meaning_en": "สมบัติแปดประการ",
+      "id": "爱情-84",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 85,
+      "word": "奶油",
+      "pinyin": "nǎiyóu",
+      "pos": "n.",
+      "meaning_en": "ครีม",
+      "id": "爱情-85",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 86,
+      "word": "梨",
+      "pinyin": "lí",
+      "pos": "n.",
+      "meaning_en": "ลูกแพร์",
+      "id": "爱情-86",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 87,
+      "word": "猕猴桃",
+      "pinyin": "míhóutáo",
+      "pos": "n.",
+      "meaning_en": "กีวี",
+      "id": "爱情-87",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 88,
+      "word": "草莓",
+      "pinyin": "cǎoméi",
+      "pos": "n.",
+      "meaning_en": "สตรอเบอร์รี่",
+      "id": "爱情-88",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 89,
+      "word": "树莓",
+      "pinyin": "shùméi",
+      "pos": "n.",
+      "meaning_en": "ราสเบอร์รี่",
+      "id": "爱情-89",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 90,
+      "word": "蓝莓",
+      "pinyin": "lánméi",
+      "pos": "n.",
+      "meaning_en": "บลูเบอร์รี่",
+      "id": "爱情-90",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 91,
+      "word": "芥末",
+      "pinyin": "jièmò",
+      "pos": "n.",
+      "meaning_en": "มัสตาร์ด",
+      "id": "爱情-91",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 92,
+      "word": "节日名称",
+      "pinyin": "jiérì-míngchēng",
+      "pos": "IE",
+      "meaning_en": "ชื่อวันหยุด",
+      "id": "爱情-92",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 93,
+      "word": "情人节",
+      "pinyin": "qíngrénjié",
+      "pos": "n.",
+      "meaning_en": "วันวาเลนไทน์",
+      "id": "爱情-93",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 94,
+      "word": "元宵节",
+      "pinyin": "yuánxiāojié",
+      "pos": "n.",
+      "meaning_en": "เทศกาลโคมไฟ",
+      "id": "爱情-94",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 95,
+      "word": "植树节",
+      "pinyin": "zhíshùjié",
+      "pos": "n.",
+      "meaning_en": "วันอาร์เบอร์",
+      "id": "爱情-95",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 96,
+      "word": "拳击节",
+      "pinyin": "quánjījié",
+      "pos": "n.",
+      "meaning_en": "เทศกาลชกมวย",
+      "id": "爱情-96",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 97,
+      "word": "泼水节",
+      "pinyin": "pōshuǐjié",
+      "pos": "n.",
+      "meaning_en": "เทศกาลสงกรานต์",
+      "id": "爱情-97",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 98,
+      "word": "番茄节",
+      "pinyin": "fānqiéjié",
+      "pos": "n.",
+      "meaning_en": "เทศกาลมะเขือเทศ",
+      "id": "爱情-98",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 99,
+      "word": "万圣节",
+      "pinyin": "wànshèngjié",
+      "pos": "n.",
+      "meaning_en": "วันฮาโลวีน",
+      "id": "爱情-99",
+      "chapter": "爱情",
+      "chapter_en": "Love"
+    },
+    {
+      "num": 1,
+      "word": "变迁",
+      "pinyin": "biànqiān",
+      "pos": "v.",
+      "meaning_en": "เปลี่ยน",
+      "id": "社会-1",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 2,
+      "word": "雕塑",
+      "pinyin": "diāosù",
+      "pos": "n.",
+      "meaning_en": "ประติมากรรม",
+      "id": "社会-2",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 3,
+      "word": "画廊",
+      "pinyin": "huàláng",
+      "pos": "n.",
+      "meaning_en": "แกลเลอรี่",
+      "id": "社会-3",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 4,
+      "word": "凝视",
+      "pinyin": "níngshì",
+      "pos": "v.",
+      "meaning_en": "จ้องมอง",
+      "id": "社会-4",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 5,
+      "word": "煤炭",
+      "pinyin": "méitàn",
+      "pos": "n.",
+      "meaning_en": "ถ่านหิน",
+      "id": "社会-5",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 6,
+      "word": "无线电",
+      "pinyin": "wúxiàndiàn",
+      "pos": "v.",
+      "meaning_en": "วิทยุ",
+      "id": "社会-6",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 7,
+      "word": "器材",
+      "pinyin": "qìcái",
+      "pos": "n.",
+      "meaning_en": "อุปกรณ์",
+      "id": "社会-7",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 8,
+      "word": "代号",
+      "pinyin": "dàihào",
+      "pos": "n.",
+      "meaning_en": "ชื่อรหัส",
+      "id": "社会-8",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 9,
+      "word": "大名鼎鼎",
+      "pinyin": "dàmíng-dǐngdǐng",
+      "pos": "IE",
+      "meaning_en": "มีชื่อเสียง",
+      "id": "社会-9",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 10,
+      "word": "分厂",
+      "pinyin": "fēnchǎng",
+      "pos": "np.",
+      "meaning_en": "สาขาโรงงาน",
+      "id": "社会-10",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 11,
+      "word": "开头",
+      "pinyin": "kāitóu",
+      "pos": "v.",
+      "meaning_en": "จุดเริ่มต้น",
+      "id": "社会-11",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 12,
+      "word": "东郊",
+      "pinyin": "dōngjiāo",
+      "pos": "np.",
+      "meaning_en": "ชานเมืองด้านตะวันออก",
+      "id": "社会-12",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 13,
+      "word": "基地",
+      "pinyin": "jīdì",
+      "pos": "n.",
+      "meaning_en": "ฐาน",
+      "id": "社会-13",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 14,
+      "word": "命名",
+      "pinyin": "mìngmíng",
+      "pos": "v.",
+      "meaning_en": "ชื่อ",
+      "id": "社会-14",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 15,
+      "word": "改组",
+      "pinyin": "gǎizǔ",
+      "pos": "v.",
+      "meaning_en": "จัดระเบียบใหม่",
+      "id": "社会-15",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 16,
+      "word": "集团",
+      "pinyin": "jítuán",
+      "pos": "n.",
+      "meaning_en": "กลุ่ม",
+      "id": "社会-16",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 17,
+      "word": "例外",
+      "pinyin": "lìwài",
+      "pos": "n.",
+      "meaning_en": "ข้อยกเว้น",
+      "id": "社会-17",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 18,
+      "word": "涂鸦",
+      "pinyin": "túyā",
+      "pos": "v.",
+      "meaning_en": "กราฟฟิตี้",
+      "id": "社会-18",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 19,
+      "word": "诞生",
+      "pinyin": "dànshēng",
+      "pos": "v.",
+      "meaning_en": "เกิด, ถือกำเนิด",
+      "id": "社会-19",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 20,
+      "word": "叛逆",
+      "pinyin": "pànnì",
+      "pos": "v.",
+      "meaning_en": "กบฏ",
+      "id": "社会-20",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 21,
+      "word": "化工",
+      "pinyin": "huàgōng",
+      "pos": "v.",
+      "meaning_en": "อุตสาหกรรมเคมีภัณฑ์",
+      "id": "社会-21",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 22,
+      "word": "仓库",
+      "pinyin": "cāngkù",
+      "pos": "n.",
+      "meaning_en": "โกดัง",
+      "id": "社会-22",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 23,
+      "word": "请示",
+      "pinyin": "qǐngshì",
+      "pos": "n.",
+      "meaning_en": "ขอคำแนะนำ",
+      "id": "社会-23",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 24,
+      "word": "边缘",
+      "pinyin": "biānyuán",
+      "pos": "IE",
+      "meaning_en": "ขอบ",
+      "id": "社会-24",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 25,
+      "word": "代码",
+      "pinyin": "dàimǎ",
+      "pos": "n.",
+      "meaning_en": "รหัส",
+      "id": "社会-25",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 26,
+      "word": "传播链",
+      "pinyin": "chuánbōliàn",
+      "pos": "n.",
+      "meaning_en": "ห่วงโซ่การส่ง",
+      "id": "社会-26",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 27,
+      "word": "一再",
+      "pinyin": "yīzài",
+      "pos": "adv.",
+      "meaning_en": "ซ้ำแล้วซ้ำเล่า",
+      "id": "社会-27",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 28,
+      "word": "景观",
+      "pinyin": "jǐngguān",
+      "pos": "n.",
+      "meaning_en": "ภูมิประเทศ",
+      "id": "社会-28",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 29,
+      "word": "前卫",
+      "pinyin": "qiánwèi",
+      "pos": "adj.",
+      "meaning_en": "เปรี้ยวจี๊ด",
+      "id": "社会-29",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 30,
+      "word": "代名词",
+      "pinyin": "dàimíngcí",
+      "pos": "n.",
+      "meaning_en": "คำพ้องความหมาย",
+      "id": "社会-30",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 31,
+      "word": "看中",
+      "pinyin": "kànzhòng",
+      "pos": "v.",
+      "meaning_en": "ไม่ธรรมดา",
+      "id": "社会-31",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 32,
+      "word": "关联",
+      "pinyin": "guānlián",
+      "pos": "v.",
+      "meaning_en": "สมาคม",
+      "id": "社会-32",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 33,
+      "word": "镇定自若",
+      "pinyin": "zhèndìng-zìruò",
+      "pos": "IE",
+      "meaning_en": "สงบและรวบรวม",
+      "id": "社会-33",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 34,
+      "word": "主人翁",
+      "pinyin": "zhǔrénwēng",
+      "pos": "n.",
+      "meaning_en": "ผู้เชี่ยวชาญ",
+      "id": "社会-34",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 35,
+      "word": "蓝图",
+      "pinyin": "lántú",
+      "pos": "n.",
+      "meaning_en": "พิมพ์เขียว",
+      "id": "社会-35",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 36,
+      "word": "创作",
+      "pinyin": "chuàngzuò",
+      "pos": "v.",
+      "meaning_en": "การสร้าง",
+      "id": "社会-36",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 37,
+      "word": "气势恢宏",
+      "pinyin": "qìshì-huīhóng",
+      "pos": "IE",
+      "meaning_en": "งดงาม",
+      "id": "社会-37",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 38,
+      "word": "抒情",
+      "pinyin": "shūqíng",
+      "pos": "v.",
+      "meaning_en": "โคลงสั้น ๆ",
+      "id": "社会-38",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 39,
+      "word": "神来之笔",
+      "pinyin": "shénlái-zhībǐ",
+      "pos": "v.",
+      "meaning_en": "จังหวะแห่งอัจฉริยะ",
+      "id": "社会-39",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 40,
+      "word": "寓意",
+      "pinyin": "yùyì",
+      "pos": "n.",
+      "meaning_en": "ความหมาย",
+      "id": "社会-40",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 41,
+      "word": "殖民地",
+      "pinyin": "zhímíndì",
+      "pos": "n.",
+      "meaning_en": "อาณานิคม",
+      "id": "社会-41",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 42,
+      "word": "封建",
+      "pinyin": "fēngjiàn",
+      "pos": "n.",
+      "meaning_en": "เกี่ยวกับศักดินา",
+      "id": "社会-42",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 43,
+      "word": "繁华",
+      "pinyin": "fánhuá",
+      "pos": "adj.",
+      "meaning_en": "คึกคัก",
+      "id": "社会-43",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 44,
+      "word": "购置",
+      "pinyin": "gòuzhì",
+      "pos": "v.",
+      "meaning_en": "ซื้อ",
+      "id": "社会-44",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 45,
+      "word": "荒芜",
+      "pinyin": "huāngwú",
+      "pos": "adj.",
+      "meaning_en": "เป็นหมัน",
+      "id": "社会-45",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 46,
+      "word": "区域",
+      "pinyin": "qūyù",
+      "pos": "n.",
+      "meaning_en": "พื้นที่",
+      "id": "社会-46",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 47,
+      "word": "坟地",
+      "pinyin": "féndì",
+      "pos": "n.",
+      "meaning_en": "สุสาน",
+      "id": "社会-47",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 48,
+      "word": "专线",
+      "pinyin": "zhuānxiàn",
+      "pos": "n.",
+      "meaning_en": "สายเฉพาะ",
+      "id": "社会-48",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 49,
+      "word": "敲锣打鼓",
+      "pinyin": "qiāoluó-dǎgǔ",
+      "pos": "IE",
+      "meaning_en": "ตีฆ้องและกลอง",
+      "id": "社会-49",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 50,
+      "word": "首发",
+      "pinyin": "shǒufā",
+      "pos": "v.",
+      "meaning_en": "เริ่มต้น",
+      "id": "社会-50",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 51,
+      "word": "喜悦",
+      "pinyin": "xǐyuè",
+      "pos": "adj.",
+      "meaning_en": "ยินดี, เปี่ยมสุข",
+      "id": "社会-51",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 52,
+      "word": "奔驰",
+      "pinyin": "bēnchí",
+      "pos": "v.",
+      "meaning_en": "เบนซ์",
+      "id": "社会-52",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 53,
+      "word": "辉煌",
+      "pinyin": "huīhuáng",
+      "pos": "adj.",
+      "meaning_en": "ฉลาดหลักแหลม",
+      "id": "社会-53",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 54,
+      "word": "供暖",
+      "pinyin": "gōngnuǎn",
+      "pos": "v.",
+      "meaning_en": "เครื่องทำความร้อน",
+      "id": "社会-54",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 55,
+      "word": "下岗",
+      "pinyin": "xiàgǎng",
+      "pos": "v.",
+      "meaning_en": "เลิกจ้าง",
+      "id": "社会-55",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 56,
+      "word": "市委",
+      "pinyin": "shìwěi",
+      "pos": "vp.",
+      "meaning_en": "คณะกรรมการพรรคเทศบาล",
+      "id": "社会-56",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 57,
+      "word": "闲置",
+      "pinyin": "xiánzhì",
+      "pos": "v.",
+      "meaning_en": "ไม่ได้ใช้งาน",
+      "id": "社会-57",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 58,
+      "word": "煤气罐",
+      "pinyin": "méiqìguàn",
+      "pos": "np.",
+      "meaning_en": "ถังแก๊ส",
+      "id": "社会-58",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 59,
+      "word": "规划",
+      "pinyin": "guīhuà",
+      "pos": "v.",
+      "meaning_en": "การวางแผน",
+      "id": "社会-59",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 60,
+      "word": "别致",
+      "pinyin": "biézhì",
+      "pos": "adj.",
+      "meaning_en": "ชิค",
+      "id": "社会-60",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 61,
+      "word": "群落",
+      "pinyin": "qúnluò",
+      "pos": "n.",
+      "meaning_en": "ชุมชน",
+      "id": "社会-61",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 62,
+      "word": "追忆",
+      "pinyin": "zhuīyì",
+      "pos": "v.",
+      "meaning_en": "จำ",
+      "id": "社会-62",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 63,
+      "word": "宏伟",
+      "pinyin": "hóngwěi",
+      "pos": "adj.",
+      "meaning_en": "งดงาม",
+      "id": "社会-63",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 64,
+      "word": "覆盖",
+      "pinyin": "fùgài",
+      "pos": "v.",
+      "meaning_en": "ปิดบัง",
+      "id": "社会-64",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 65,
+      "word": "变幻无穷",
+      "pinyin": "biànhuàn-wúqióng",
+      "pos": "IE",
+      "meaning_en": "เปลี่ยนแปลงตลอดเวลา",
+      "id": "社会-65",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 66,
+      "word": "气质",
+      "pinyin": "qìzhì",
+      "pos": "n.",
+      "meaning_en": "อารมณ์",
+      "id": "社会-66",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 67,
+      "word": "期许",
+      "pinyin": "qīxǔ",
+      "pos": "vp.",
+      "meaning_en": "ความคาดหวัง",
+      "id": "社会-67",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 68,
+      "word": "携手",
+      "pinyin": "xiéshǒu",
+      "pos": "vp.",
+      "meaning_en": "จับมือกัน",
+      "id": "社会-68",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 69,
+      "word": "殿堂",
+      "pinyin": "diàntáng",
+      "pos": "IE",
+      "meaning_en": "พระราชวัง",
+      "id": "社会-69",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 70,
+      "word": "团聚",
+      "pinyin": "tuánjù",
+      "pos": "v.",
+      "meaning_en": "การรวมตัวใหม่",
+      "id": "社会-70",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 71,
+      "word": "周游世界",
+      "pinyin": "zhōuyóu-shìjiè",
+      "pos": "IE",
+      "meaning_en": "ท่องเที่ยวรอบโลก",
+      "id": "社会-71",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 72,
+      "word": "安居乐业",
+      "pinyin": "ānjū-lèyè",
+      "pos": "v.",
+      "meaning_en": "ใช้ชีวิตและทำงานอย่างสงบสุขและพึงพอใจ",
+      "id": "社会-72",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 73,
+      "word": "华北",
+      "pinyin": "huáběi",
+      "pos": "IE",
+      "meaning_en": "จีนตอนเหนือ",
+      "id": "社会-73",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 74,
+      "word": "民主德国",
+      "pinyin": "mínzhǔ-déguó",
+      "pos": "IE",
+      "meaning_en": "ประชาธิปไตยเยอรมนี",
+      "id": "社会-74",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 75,
+      "word": "世界杯",
+      "pinyin": "shìjièbēi",
+      "pos": "n.",
+      "meaning_en": "ฟุตบอลโลก",
+      "id": "社会-75",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 76,
+      "word": "西班牙",
+      "pinyin": "xībānyá",
+      "pos": "n.",
+      "meaning_en": "สเปน",
+      "id": "社会-76",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 77,
+      "word": "黎巴嫩",
+      "pinyin": "líbānèn",
+      "pos": "n.",
+      "meaning_en": "เลบานอน",
+      "id": "社会-77",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 78,
+      "word": "莫言",
+      "pinyin": "mòyán",
+      "pos": "n.",
+      "meaning_en": "โมหยาน",
+      "id": "社会-78",
+      "chapter": "社会",
+      "chapter_en": "Society"
+    },
+    {
+      "num": 1,
+      "word": "婚纱",
+      "pinyin": "hūnshā",
+      "pos": "n.",
+      "meaning_en": "ชุดแต่งงาน",
+      "id": "家庭-1",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 2,
+      "word": "喜酒",
+      "pinyin": "xǐjiǔ",
+      "pos": "n.",
+      "meaning_en": "ไวน์แต่งงาน",
+      "id": "家庭-2",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 3,
+      "word": "亲朋好友",
+      "pinyin": "qīnpéng-hǎoyǒu",
+      "pos": "IE",
+      "meaning_en": "เพื่อนและญาติ",
+      "id": "家庭-3",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 4,
+      "word": "步入",
+      "pinyin": "bùrù",
+      "pos": "v.",
+      "meaning_en": "ก้าวเข้ามา",
+      "id": "家庭-4",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 5,
+      "word": "殿堂",
+      "pinyin": "diàntáng",
+      "pos": "n.",
+      "meaning_en": "พระราชวัง",
+      "id": "家庭-5",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 6,
+      "word": "裸婚",
+      "pinyin": "luǒhūn",
+      "pos": "v.",
+      "meaning_en": "การแต่งงานที่เปลือยเปล่า",
+      "id": "家庭-6",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 7,
+      "word": "仪式",
+      "pinyin": "yíshì",
+      "pos": "n.",
+      "meaning_en": "พิธี",
+      "id": "家庭-7",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 8,
+      "word": "典礼",
+      "pinyin": "diǎnlǐ",
+      "pos": "n.",
+      "meaning_en": "พิธี",
+      "id": "家庭-8",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 9,
+      "word": "看待",
+      "pinyin": "kàndài",
+      "pos": "v.",
+      "meaning_en": "รักษา",
+      "id": "家庭-9",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 10,
+      "word": "莫名其妙",
+      "pinyin": "mòmíng-qímiào",
+      "pos": "IE",
+      "meaning_en": "น่างงงวย",
+      "id": "家庭-10",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 11,
+      "word": "蜜月",
+      "pinyin": "mìyuè",
+      "pos": "n.",
+      "meaning_en": "ฮันนีมูน",
+      "id": "家庭-11",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 12,
+      "word": "钻戒",
+      "pinyin": "zuànjiè",
+      "pos": "n.",
+      "meaning_en": "แหวนเพชร",
+      "id": "家庭-12",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 13,
+      "word": "抗争",
+      "pinyin": "kàngzhēng",
+      "pos": "v.",
+      "meaning_en": "ต่อสู้",
+      "id": "家庭-13",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 14,
+      "word": "携手并进",
+      "pinyin": "xiéshǒu-bìngjìn",
+      "pos": "IE",
+      "meaning_en": "ไปจับมือกัน",
+      "id": "家庭-14",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 15,
+      "word": "继而",
+      "pinyin": "jìér",
+      "pos": "v.",
+      "meaning_en": "แล้ว",
+      "id": "家庭-15",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 16,
+      "word": "其间",
+      "pinyin": "qíjiān",
+      "pos": "n.",
+      "meaning_en": "ในระหว่างนี้",
+      "id": "家庭-16",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 17,
+      "word": "酸甜苦辣",
+      "pinyin": "suāntián-kǔlà",
+      "pos": "IE",
+      "meaning_en": "ขึ้นและลง",
+      "id": "家庭-17",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 18,
+      "word": "系列",
+      "pinyin": "xìliè",
+      "pos": "n.",
+      "meaning_en": "ชุด",
+      "id": "家庭-18",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 19,
+      "word": "保障",
+      "pinyin": "bǎozhàng",
+      "pos": "n.",
+      "meaning_en": "รับรอง",
+      "id": "家庭-19",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 20,
+      "word": "踏实",
+      "pinyin": "tàshí",
+      "pos": "n.",
+      "meaning_en": "แน่วแน่",
+      "id": "家庭-20",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 21,
+      "word": "说白了",
+      "pinyin": "shuōbáile",
+      "pos": "n.",
+      "meaning_en": "ถ้าจะพูดตรงๆ",
+      "id": "家庭-21",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 22,
+      "word": "有把握",
+      "pinyin": "yǒubǎwò",
+      "pos": "IE",
+      "meaning_en": "แน่นอน",
+      "id": "家庭-22",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 23,
+      "word": "一针见血",
+      "pinyin": "yīzhēn-jiànxiě",
+      "pos": "IE",
+      "meaning_en": "ตีเล็บบนหัว",
+      "id": "家庭-23",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 24,
+      "word": "资本",
+      "pinyin": "zīběn",
+      "pos": "IE",
+      "meaning_en": "เมืองหลวง",
+      "id": "家庭-24",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 25,
+      "word": "反驳",
+      "pinyin": "fǎnbó",
+      "pos": "n.",
+      "meaning_en": "หักล้าง",
+      "id": "家庭-25",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 26,
+      "word": "本能",
+      "pinyin": "běnnéng",
+      "pos": "adv.",
+      "meaning_en": "สัญชาตญาณ",
+      "id": "家庭-26",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 27,
+      "word": "念叻",
+      "pinyin": "niànlè",
+      "pos": "v.",
+      "meaning_en": "เนียน ลา",
+      "id": "家庭-27",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 28,
+      "word": "高企",
+      "pinyin": "gāoqǐ",
+      "pos": "v.",
+      "meaning_en": "ระดับสูง",
+      "id": "家庭-28",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 29,
+      "word": "实力",
+      "pinyin": "shílì",
+      "pos": "n.",
+      "meaning_en": "ความแข็งแกร่ง",
+      "id": "家庭-29",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 30,
+      "word": "代价",
+      "pinyin": "dàijià",
+      "pos": "n.",
+      "meaning_en": "ค่าใช้จ่าย, ราคา",
+      "id": "家庭-30",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 31,
+      "word": "预料",
+      "pinyin": "yùliào",
+      "pos": "v.",
+      "meaning_en": "คาดหวัง",
+      "id": "家庭-31",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 32,
+      "word": "定义",
+      "pinyin": "dìngyì",
+      "pos": "v.",
+      "meaning_en": "คำนิยาม",
+      "id": "家庭-32",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 33,
+      "word": "同龄人",
+      "pinyin": "tónglíngrén",
+      "pos": "np.",
+      "meaning_en": "เพื่อนร่วมงาน",
+      "id": "家庭-33",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 34,
+      "word": "孝敬",
+      "pinyin": "xiàojìng",
+      "pos": "v.",
+      "meaning_en": "ความกตัญญูกตเวที",
+      "id": "家庭-34",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 35,
+      "word": "小两口儿",
+      "pinyin": "xiǎoliǎng-kǒuér",
+      "pos": "np.",
+      "meaning_en": "คู่หนุ่มสาว",
+      "id": "家庭-35",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 36,
+      "word": "丰厚",
+      "pinyin": "fēnghòu",
+      "pos": "adj.",
+      "meaning_en": "รวย",
+      "id": "家庭-36",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 37,
+      "word": "首付",
+      "pinyin": "shǒufù",
+      "pos": "n.",
+      "meaning_en": "เงินดาวน์",
+      "id": "家庭-37",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 38,
+      "word": "紧紧巴巴",
+      "pinyin": "jǐnjǐn-bābā",
+      "pos": "IE",
+      "meaning_en": "แน่น",
+      "id": "家庭-38",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 39,
+      "word": "高额",
+      "pinyin": "gāoé",
+      "pos": "n.",
+      "meaning_en": "ปริมาณสูง",
+      "id": "家庭-39",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 40,
+      "word": "相应",
+      "pinyin": "xiāngyìng",
+      "pos": "adj.",
+      "meaning_en": "ที่สอดคล้องกัน",
+      "id": "家庭-40",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 41,
+      "word": "年少轻狂",
+      "pinyin": "niánshào-qīngkuáng",
+      "pos": "np.",
+      "meaning_en": "หนุ่มและขี้เล่น",
+      "id": "家庭-41",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 42,
+      "word": "签订",
+      "pinyin": "qiāndìng",
+      "pos": "v.",
+      "meaning_en": "เข้าสู่ระบบ",
+      "id": "家庭-42",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 43,
+      "word": "协议",
+      "pinyin": "xiéyì",
+      "pos": "n.",
+      "meaning_en": "ข้อตกลง, สัญญา",
+      "id": "家庭-43",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 44,
+      "word": "意味着",
+      "pinyin": "yìwèizhe",
+      "pos": "IE",
+      "meaning_en": "หมายถึง",
+      "id": "家庭-44",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 45,
+      "word": "周期",
+      "pinyin": "zhōuqī",
+      "pos": "n.",
+      "meaning_en": "วงจร",
+      "id": "家庭-45",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 46,
+      "word": "负担",
+      "pinyin": "fùdān",
+      "pos": "n.",
+      "meaning_en": "ภาระ",
+      "id": "家庭-46",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 47,
+      "word": "沉稳",
+      "pinyin": "chénwěn",
+      "pos": "adj.",
+      "meaning_en": "เงียบสงบ",
+      "id": "家庭-47",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 48,
+      "word": "潜移默化",
+      "pinyin": "qiányí-mòhuà",
+      "pos": "IE",
+      "meaning_en": "อย่างละเอียด",
+      "id": "家庭-48",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 49,
+      "word": "置换",
+      "pinyin": "zhìhuàn",
+      "pos": "v.",
+      "meaning_en": "ทดแทน",
+      "id": "家庭-49",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 50,
+      "word": "气质",
+      "pinyin": "qìzhì",
+      "pos": "n.",
+      "meaning_en": "อารมณ์",
+      "id": "家庭-50",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 51,
+      "word": "激情",
+      "pinyin": "jīqíng",
+      "pos": "n.",
+      "meaning_en": "ความหลงใหล",
+      "id": "家庭-51",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 52,
+      "word": "冲动",
+      "pinyin": "chōngdòng",
+      "pos": "n.",
+      "meaning_en": "แรงกระตุ้น",
+      "id": "家庭-52",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 53,
+      "word": "急于",
+      "pinyin": "jíyú",
+      "pos": "v.",
+      "meaning_en": "กระตือรือร้น",
+      "id": "家庭-53",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 54,
+      "word": "安稳",
+      "pinyin": "ānwěn",
+      "pos": "adj.",
+      "meaning_en": "มั่นคง",
+      "id": "家庭-54",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 55,
+      "word": "安定",
+      "pinyin": "āndìng",
+      "pos": "adv.",
+      "meaning_en": "มั่นคง",
+      "id": "家庭-55",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 56,
+      "word": "起码",
+      "pinyin": "qǐmǎ",
+      "pos": "adj.",
+      "meaning_en": "อย่างน้อย",
+      "id": "家庭-56",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 57,
+      "word": "尝试",
+      "pinyin": "chángshì",
+      "pos": "v.",
+      "meaning_en": "ลอง, พยายามทำ",
+      "id": "家庭-57",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 58,
+      "word": "认可",
+      "pinyin": "rènkě",
+      "pos": "v.",
+      "meaning_en": "การอนุมัติ",
+      "id": "家庭-58",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 59,
+      "word": "创业",
+      "pinyin": "chuàngyè",
+      "pos": "v.",
+      "meaning_en": "เริ่มต้นธุรกิจ",
+      "id": "家庭-59",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 60,
+      "word": "共识",
+      "pinyin": "gòngshí",
+      "pos": "v.",
+      "meaning_en": "ฉันทามติ",
+      "id": "家庭-60",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 61,
+      "word": "类似",
+      "pinyin": "lèisì",
+      "pos": "v.",
+      "meaning_en": "คล้ายกัน",
+      "id": "家庭-61",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 62,
+      "word": "个体户",
+      "pinyin": "gètǐhù",
+      "pos": "n.",
+      "meaning_en": "อาชีพอิสระ",
+      "id": "家庭-62",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 63,
+      "word": "推动",
+      "pinyin": "tuīdòng",
+      "pos": "v.",
+      "meaning_en": "ส่งเสริม",
+      "id": "家庭-63",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 64,
+      "word": "偏颇",
+      "pinyin": "piānpǒ",
+      "pos": "adj.",
+      "meaning_en": "ลำเอียง",
+      "id": "家庭-64",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 65,
+      "word": "妇联",
+      "pinyin": "fùlián",
+      "pos": "n.",
+      "meaning_en": "สหพันธ์สตรี",
+      "id": "家庭-65",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 66,
+      "word": "发布",
+      "pinyin": "fābù",
+      "pos": "v.",
+      "meaning_en": "ปล่อย",
+      "id": "家庭-66",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 67,
+      "word": "指数",
+      "pinyin": "zhǐshù",
+      "pos": "n.",
+      "meaning_en": "ดัชนี",
+      "id": "家庭-67",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 68,
+      "word": "显著",
+      "pinyin": "xiǎnzhù",
+      "pos": "adj.",
+      "meaning_en": "อย่างมีนัยสำคัญ",
+      "id": "家庭-68",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 69,
+      "word": "支撑",
+      "pinyin": "zhīchēng",
+      "pos": "v.",
+      "meaning_en": "ค้ำจุน, สนับสนุน",
+      "id": "家庭-69",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 70,
+      "word": "提升",
+      "pinyin": "tíshēng",
+      "pos": "v.",
+      "meaning_en": "ส่งเสริม",
+      "id": "家庭-70",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 71,
+      "word": "拜金",
+      "pinyin": "bàijīn",
+      "pos": "v.",
+      "meaning_en": "บูชาเงิน",
+      "id": "家庭-71",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 72,
+      "word": "维度",
+      "pinyin": "wéidù",
+      "pos": "n.",
+      "meaning_en": "ขนาด",
+      "id": "家庭-72",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 73,
+      "word": "占据",
+      "pinyin": "zhànjù",
+      "pos": "v.",
+      "meaning_en": "ครอบครอง",
+      "id": "家庭-73",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 74,
+      "word": "来源",
+      "pinyin": "láiyuán",
+      "pos": "n.",
+      "meaning_en": "แหล่งที่มา",
+      "id": "家庭-74",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 75,
+      "word": "和谐",
+      "pinyin": "héxié",
+      "pos": "adj.",
+      "meaning_en": "กลมกลืน, สามัคคี",
+      "id": "家庭-75",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 76,
+      "word": "家务",
+      "pinyin": "jiāwù",
+      "pos": "n.",
+      "meaning_en": "งานบ้าน",
+      "id": "家庭-76",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 77,
+      "word": "公婆",
+      "pinyin": "gōngpó",
+      "pos": "n.",
+      "meaning_en": "พ่อแม่สามี",
+      "id": "家庭-77",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 78,
+      "word": "长辈",
+      "pinyin": "zhǎngbèi",
+      "pos": "n.",
+      "meaning_en": "พี่",
+      "id": "家庭-78",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 79,
+      "word": "期望",
+      "pinyin": "qīwàng",
+      "pos": "v.",
+      "meaning_en": "คาดหวัง, รอคอย",
+      "id": "家庭-79",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 80,
+      "word": "干预",
+      "pinyin": "gānyù",
+      "pos": "v.",
+      "meaning_en": "การแทรกแซง",
+      "id": "家庭-80",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 81,
+      "word": "博士生",
+      "pinyin": "bóshìshēng",
+      "pos": "v.",
+      "meaning_en": "นักศึกษาปริญญาเอก",
+      "id": "家庭-81",
+      "chapter": "家庭",
+      "chapter_en": "Family"
+    },
+    {
+      "num": 1,
+      "word": "央又汪释",
+      "pinyin": "yāngyòu-wāngshì",
+      "pos": "IE",
+      "meaning_en": "หยางยูวังซือ",
+      "id": "校园-1",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 2,
+      "word": "心理学",
+      "pinyin": "xīnlǐxué",
+      "pos": "n.",
+      "meaning_en": "จิตวิทยา",
+      "id": "校园-2",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 3,
+      "word": "系",
+      "pinyin": "xì",
+      "pos": "n.",
+      "meaning_en": "ผูก",
+      "id": "校园-3",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 4,
+      "word": "念",
+      "pinyin": "niàn",
+      "pos": "v.",
+      "meaning_en": "อ่าน",
+      "id": "校园-4",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 5,
+      "word": "家乡",
+      "pinyin": "jiāxiāng",
+      "pos": "n.",
+      "meaning_en": "บ้านเกิด, ถิ่นกำเนิด",
+      "id": "校园-5",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 6,
+      "word": "梦想",
+      "pinyin": "mèngxiǎng",
+      "pos": "n.",
+      "meaning_en": "ความฝัน",
+      "id": "校园-6",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 7,
+      "word": "发挥",
+      "pinyin": "fāhuī",
+      "pos": "v.",
+      "meaning_en": "แสดงออก, ใช้ให้เต็มที่",
+      "id": "校园-7",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 8,
+      "word": "幸运",
+      "pinyin": "xìngyùn",
+      "pos": "adj.",
+      "meaning_en": "โชคดี",
+      "id": "校园-8",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 9,
+      "word": "失落",
+      "pinyin": "shīluò",
+      "pos": "adj.",
+      "meaning_en": "รู้สึกตกหล่น, หงอย",
+      "id": "校园-9",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 10,
+      "word": "想象",
+      "pinyin": "xiǎngxiàng",
+      "pos": "adj.",
+      "meaning_en": "จินตนาการ",
+      "id": "校园-10",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 11,
+      "word": "占",
+      "pinyin": "zhàn",
+      "pos": "v.",
+      "meaning_en": "ครอบครอง",
+      "id": "校园-11",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 12,
+      "word": "空闲",
+      "pinyin": "kòngxián",
+      "pos": "v.",
+      "meaning_en": "ไม่ได้ใช้งาน",
+      "id": "校园-12",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 13,
+      "word": "课程",
+      "pinyin": "kèchéng",
+      "pos": "adj.",
+      "meaning_en": "คอร์ส",
+      "id": "校园-13",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 14,
+      "word": "茫然",
+      "pinyin": "mángrán",
+      "pos": "n.",
+      "meaning_en": "ที่สูญเสีย",
+      "id": "校园-14",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 15,
+      "word": "一辈子",
+      "pinyin": "yībèizi",
+      "pos": "adj.",
+      "meaning_en": "ตลอดชีวิต",
+      "id": "校园-15",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 16,
+      "word": "阶段",
+      "pinyin": "jiēduàn",
+      "pos": "n.",
+      "meaning_en": "เวที",
+      "id": "校园-16",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 17,
+      "word": "待会儿",
+      "pinyin": "dàihuìer",
+      "pos": "n.",
+      "meaning_en": "ภายหลัง",
+      "id": "校园-17",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 18,
+      "word": "演讲",
+      "pinyin": "yǎnjiǎng",
+      "pos": "v.",
+      "meaning_en": "คำพูด",
+      "id": "校园-18",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 19,
+      "word": "背书",
+      "pinyin": "bèishū",
+      "pos": "v.",
+      "meaning_en": "การรับรอง",
+      "id": "校园-19",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 20,
+      "word": "包容",
+      "pinyin": "bāoróng",
+      "pos": "v.",
+      "meaning_en": "ทนต่อ",
+      "id": "校园-20",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 21,
+      "word": "纪录片",
+      "pinyin": "jìlùpiàn",
+      "pos": "n.",
+      "meaning_en": "สารคดี",
+      "id": "校园-21",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 22,
+      "word": "导演",
+      "pinyin": "dǎoyǎn",
+      "pos": "n.",
+      "meaning_en": "ผู้อำนวยการ",
+      "id": "校园-22",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 23,
+      "word": "媒体",
+      "pinyin": "méitǐ",
+      "pos": "n.",
+      "meaning_en": "สื่อ",
+      "id": "校园-23",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 24,
+      "word": "逼迫",
+      "pinyin": "bīpò",
+      "pos": "v.",
+      "meaning_en": "บังคับ",
+      "id": "校园-24",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 25,
+      "word": "掌握",
+      "pinyin": "zhǎngwò",
+      "pos": "v.",
+      "meaning_en": "ผู้เชี่ยวชาญ",
+      "id": "校园-25",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 26,
+      "word": "撑",
+      "pinyin": "chēng",
+      "pos": "v.",
+      "meaning_en": "สนับสนุน",
+      "id": "校园-26",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 27,
+      "word": "多多包涵",
+      "pinyin": "duōduō-bāohán",
+      "pos": "IE",
+      "meaning_en": "กรุณาอดทนกับฉัน",
+      "id": "校园-27",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 28,
+      "word": "平凡",
+      "pinyin": "píngfán",
+      "pos": "adj.",
+      "meaning_en": "สามัญ",
+      "id": "校园-28",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 29,
+      "word": "标签",
+      "pinyin": "biāoqiān",
+      "pos": "n.",
+      "meaning_en": "ฉลาก",
+      "id": "校园-29",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 30,
+      "word": "水滴",
+      "pinyin": "shuǐdī",
+      "pos": "n.",
+      "meaning_en": "หยดน้ำ",
+      "id": "校园-30",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 31,
+      "word": "融进",
+      "pinyin": "róngjìn",
+      "pos": "n.",
+      "meaning_en": "รวมเข้ากับ",
+      "id": "校园-31",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 32,
+      "word": "自在",
+      "pinyin": "zìzài",
+      "pos": "n.",
+      "meaning_en": "สะดวกสบาย",
+      "id": "校园-32",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 33,
+      "word": "方式",
+      "pinyin": "fāngshì",
+      "pos": "v.",
+      "meaning_en": "ทาง",
+      "id": "校园-33",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 34,
+      "word": "引子",
+      "pinyin": "yǐnzi",
+      "pos": "adj.",
+      "meaning_en": "การแนะนำ",
+      "id": "校园-34",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 35,
+      "word": "反正",
+      "pinyin": "fǎnzhèng",
+      "pos": "n.",
+      "meaning_en": "ถึงอย่างไร",
+      "id": "校园-35",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 36,
+      "word": "点评",
+      "pinyin": "diǎnpíng",
+      "pos": "n.",
+      "meaning_en": "ทบทวน",
+      "id": "校园-36",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 37,
+      "word": "要点",
+      "pinyin": "yàodiǎn",
+      "pos": "adv.",
+      "meaning_en": "ประเด็นหลัก",
+      "id": "校园-37",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 38,
+      "word": "情结",
+      "pinyin": "qíngjié",
+      "pos": "v.",
+      "meaning_en": "ซับซ้อน",
+      "id": "校园-38",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 39,
+      "word": "计算",
+      "pinyin": "jìsuàn",
+      "pos": "n.",
+      "meaning_en": "คำนวณ",
+      "id": "校园-39",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 40,
+      "word": "蹲",
+      "pinyin": "dūn",
+      "pos": "n.",
+      "meaning_en": "หมอบ",
+      "id": "校园-40",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 41,
+      "word": "咨询师",
+      "pinyin": "zīxúnshī",
+      "pos": "v.",
+      "meaning_en": "ที่ปรึกษา",
+      "id": "校园-41",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 42,
+      "word": "自由",
+      "pinyin": "zìyóu",
+      "pos": "adj.",
+      "meaning_en": "ฟรี",
+      "id": "校园-42",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 43,
+      "word": "相对",
+      "pinyin": "xiāngduì",
+      "pos": "adj.",
+      "meaning_en": "ค่อนข้าง",
+      "id": "校园-43",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 44,
+      "word": "管",
+      "pinyin": "guǎn",
+      "pos": "v.",
+      "meaning_en": "ดูแล, จัดการ",
+      "id": "校园-44",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 45,
+      "word": "足够",
+      "pinyin": "zúgòu",
+      "pos": "v.",
+      "meaning_en": "เพียงพอ",
+      "id": "校园-45",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 46,
+      "word": "状态",
+      "pinyin": "zhuàngtài",
+      "pos": "n.",
+      "meaning_en": "สถานะ",
+      "id": "校园-46",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 47,
+      "word": "充实",
+      "pinyin": "chōngshí",
+      "pos": "adj.",
+      "meaning_en": "เสริมสร้าง",
+      "id": "校园-47",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 48,
+      "word": "价值",
+      "pinyin": "jiàzhí",
+      "pos": "n.",
+      "meaning_en": "ค่า",
+      "id": "校园-48",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 49,
+      "word": "寝室",
+      "pinyin": "qǐnshì",
+      "pos": "n.",
+      "meaning_en": "ห้องนอน",
+      "id": "校园-49",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 50,
+      "word": "戏剧",
+      "pinyin": "xìjù",
+      "pos": "n.",
+      "meaning_en": "ละคร",
+      "id": "校园-50",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 51,
+      "word": "搭档",
+      "pinyin": "dādàng",
+      "pos": "n.",
+      "meaning_en": "พันธมิตร",
+      "id": "校园-51",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 52,
+      "word": "女神",
+      "pinyin": "nǚshén",
+      "pos": "n.",
+      "meaning_en": "เทพธิดา",
+      "id": "校园-52",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 53,
+      "word": "采访",
+      "pinyin": "cǎifǎng",
+      "pos": "v.",
+      "meaning_en": "สัมภาษณ์",
+      "id": "校园-53",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 54,
+      "word": "含蓄",
+      "pinyin": "hánxù",
+      "pos": "adj.",
+      "meaning_en": "โดยปริยาย",
+      "id": "校园-54",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 55,
+      "word": "镜头",
+      "pinyin": "jìngtóu",
+      "pos": "n.",
+      "meaning_en": "เลนส์",
+      "id": "校园-55",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 56,
+      "word": "独脚架",
+      "pinyin": "dújiǎojià",
+      "pos": "n.",
+      "meaning_en": "โมโนพอด",
+      "id": "校园-56",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 57,
+      "word": "掂",
+      "pinyin": "diān",
+      "pos": "v.",
+      "meaning_en": "ชั่งน้ำหนัก",
+      "id": "校园-57",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 58,
+      "word": "绝对",
+      "pinyin": "juéduì",
+      "pos": "adv.",
+      "meaning_en": "แน่นอน",
+      "id": "校园-58",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 59,
+      "word": "不止",
+      "pinyin": "bùzhǐ",
+      "pos": "adv.",
+      "meaning_en": "มากกว่า",
+      "id": "校园-59",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 60,
+      "word": "行业",
+      "pinyin": "hángyè",
+      "pos": "adv.",
+      "meaning_en": "อุตสาหกรรม",
+      "id": "校园-60",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 61,
+      "word": "体验",
+      "pinyin": "tǐyàn",
+      "pos": "adv.",
+      "meaning_en": "ประสบการณ์",
+      "id": "校园-61",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 62,
+      "word": "或许",
+      "pinyin": "huòxǔ",
+      "pos": "adv.",
+      "meaning_en": "บางที",
+      "id": "校园-62",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 63,
+      "word": "安定",
+      "pinyin": "āndìng",
+      "pos": "adv.",
+      "meaning_en": "มั่นคง",
+      "id": "校园-63",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 64,
+      "word": "恋爱",
+      "pinyin": "liànài",
+      "pos": "v.",
+      "meaning_en": "มีความรัก",
+      "id": "校园-64",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 65,
+      "word": "蜜月",
+      "pinyin": "mìyuè",
+      "pos": "v.",
+      "meaning_en": "ฮันนีมูน",
+      "id": "校园-65",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 66,
+      "word": "程度",
+      "pinyin": "chéngdù",
+      "pos": "n.",
+      "meaning_en": "ระดับ",
+      "id": "校园-66",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 67,
+      "word": "干扰",
+      "pinyin": "gānrǎo",
+      "pos": "n.",
+      "meaning_en": "การรบกวน",
+      "id": "校园-67",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 68,
+      "word": "独来独往",
+      "pinyin": "dúlái-dúwǎng",
+      "pos": "IE",
+      "meaning_en": "ชอบอยู่คนเดียว, โดดเดี่ยว",
+      "id": "校园-68",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 69,
+      "word": "孤独",
+      "pinyin": "gūdú",
+      "pos": "adj.",
+      "meaning_en": "เหงา",
+      "id": "校园-69",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 70,
+      "word": "狼",
+      "pinyin": "láng",
+      "pos": "n.",
+      "meaning_en": "หมาป่า",
+      "id": "校园-70",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 71,
+      "word": "签名档",
+      "pinyin": "qiānmíngdàng",
+      "pos": "n.",
+      "meaning_en": "ไฟล์ลายเซ็น",
+      "id": "校园-71",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 72,
+      "word": "折腾",
+      "pinyin": "zhēteng",
+      "pos": "v.",
+      "meaning_en": "โยน",
+      "id": "校园-72",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 73,
+      "word": "甘愿",
+      "pinyin": "gānyuàn",
+      "pos": "v.",
+      "meaning_en": "ยินดี, สมัครใจ",
+      "id": "校园-73",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 74,
+      "word": "欢喜",
+      "pinyin": "huānxǐ",
+      "pos": "adj.",
+      "meaning_en": "ความสุข",
+      "id": "校园-74",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 75,
+      "word": "临近",
+      "pinyin": "línjìn",
+      "pos": "adj.",
+      "meaning_en": "ใกล้เข้ามา",
+      "id": "校园-75",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 76,
+      "word": "日渐",
+      "pinyin": "rìjiàn",
+      "pos": "v.",
+      "meaning_en": "วันต่อวัน",
+      "id": "校园-76",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 77,
+      "word": "火爆",
+      "pinyin": "huǒbào",
+      "pos": "v.",
+      "meaning_en": "ร้อน",
+      "id": "校园-77",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 78,
+      "word": "客流量",
+      "pinyin": "kèliúliàng",
+      "pos": "adv.",
+      "meaning_en": "การไหลของผู้โดยสาร",
+      "id": "校园-78",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 79,
+      "word": "配",
+      "pinyin": "pèi",
+      "pos": "adj.",
+      "meaning_en": "จับคู่",
+      "id": "校园-79",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 80,
+      "word": "相当",
+      "pinyin": "xiāngdāng",
+      "pos": "n.",
+      "meaning_en": "ค่อนข้าง",
+      "id": "校园-80",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 81,
+      "word": "比例",
+      "pinyin": "bǐlì",
+      "pos": "v.",
+      "meaning_en": "สัดส่วน",
+      "id": "校园-81",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 82,
+      "word": "近视",
+      "pinyin": "jìnshì",
+      "pos": "adv.",
+      "meaning_en": "สายตาสั้น",
+      "id": "校园-82",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 83,
+      "word": "无奈",
+      "pinyin": "wúnài",
+      "pos": "n.",
+      "meaning_en": "ไม่มีทางเลือก",
+      "id": "校园-83",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 84,
+      "word": "趁",
+      "pinyin": "chèn",
+      "pos": "adj.",
+      "meaning_en": "ใช้ประโยชน์จาก",
+      "id": "校园-84",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 85,
+      "word": "利用",
+      "pinyin": "lìyòng",
+      "pos": "v.",
+      "meaning_en": "ใช้",
+      "id": "校园-85",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 86,
+      "word": "存在",
+      "pinyin": "cúnzài",
+      "pos": "v.",
+      "meaning_en": "มีอยู่",
+      "id": "校园-86",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 87,
+      "word": "低龄化",
+      "pinyin": "dīlínghuà",
+      "pos": "v.",
+      "meaning_en": "อายุน้อยกว่า",
+      "id": "校园-87",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 88,
+      "word": "趋势",
+      "pinyin": "qūshì",
+      "pos": "v.",
+      "meaning_en": "แนวโน้ม",
+      "id": "校园-88",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 89,
+      "word": "过度",
+      "pinyin": "guòdù",
+      "pos": "n.",
+      "meaning_en": "เกิน",
+      "id": "校园-89",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 90,
+      "word": "造成",
+      "pinyin": "zàochéng",
+      "pos": "adj.",
+      "meaning_en": "สาเหตุ",
+      "id": "校园-90",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 91,
+      "word": "整天",
+      "pinyin": "zhěngtiān",
+      "pos": "v.",
+      "meaning_en": "ตลอดทั้งวัน",
+      "id": "校园-91",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 92,
+      "word": "泡",
+      "pinyin": "pào",
+      "pos": "n.",
+      "meaning_en": "ฟอง",
+      "id": "校园-92",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 93,
+      "word": "损伤",
+      "pinyin": "sǔnshāng",
+      "pos": "v.",
+      "meaning_en": "ความเสียหาย",
+      "id": "校园-93",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 94,
+      "word": "根本",
+      "pinyin": "gēnběn",
+      "pos": "v.",
+      "meaning_en": "พื้นฐาน",
+      "id": "校园-94",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 95,
+      "word": "熬夜",
+      "pinyin": "áoyè",
+      "pos": "v.",
+      "meaning_en": "อยู่ต่อไป",
+      "id": "校园-95",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 96,
+      "word": "规律",
+      "pinyin": "guīlǜ",
+      "pos": "v.",
+      "meaning_en": "กฎ",
+      "id": "校园-96",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 97,
+      "word": "视力",
+      "pinyin": "shìlì",
+      "pos": "n.",
+      "meaning_en": "วิสัยทัศน์",
+      "id": "校园-97",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 98,
+      "word": "迅速",
+      "pinyin": "xùnsù",
+      "pos": "adj.",
+      "meaning_en": "เร็ว",
+      "id": "校园-98",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 99,
+      "word": "李华",
+      "pinyin": "lǐhuá",
+      "pos": "n.",
+      "meaning_en": "หลี่ฮวา",
+      "id": "校园-99",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 100,
+      "word": "张尧",
+      "pinyin": "zhāngyáo",
+      "pos": "n.",
+      "meaning_en": "จางเหยา",
+      "id": "校园-100",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 101,
+      "word": "北大",
+      "pinyin": "běidà",
+      "pos": "n.",
+      "meaning_en": "มหาวิทยาลัยปักกิ่ง",
+      "id": "校园-101",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 102,
+      "word": "贵州",
+      "pinyin": "guìzhōu",
+      "pos": "n.",
+      "meaning_en": "กุ้ยโจว",
+      "id": "校园-102",
+      "chapter": "校园",
+      "chapter_en": "Campus"
+    },
+    {
+      "num": 1,
+      "word": "海岸线",
+      "pinyin": "hǎiànxiàn",
+      "pos": "np.",
+      "meaning_en": "แนวชายฝั่ง",
+      "id": "旅行-1",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 2,
+      "word": "自驾",
+      "pinyin": "zìjià",
+      "pos": "v.",
+      "meaning_en": "ขับรถเอง",
+      "id": "旅行-2",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 3,
+      "word": "财富",
+      "pinyin": "cáifù",
+      "pos": "n.",
+      "meaning_en": "ความมั่งคั่ง",
+      "id": "旅行-3",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 4,
+      "word": "展示",
+      "pinyin": "zhǎnshì",
+      "pos": "v.",
+      "meaning_en": "จัดแสดง",
+      "id": "旅行-4",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 5,
+      "word": "旅途",
+      "pinyin": "lǚtú",
+      "pos": "n.",
+      "meaning_en": "การเดินทาง",
+      "id": "旅行-5",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 6,
+      "word": "行头",
+      "pinyin": "xíngtou",
+      "pos": "n.",
+      "meaning_en": "ชุดเสื้อผ้า",
+      "id": "旅行-6",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 7,
+      "word": "滑稽",
+      "pinyin": "huájī",
+      "pos": "adj.",
+      "meaning_en": "ตลก",
+      "id": "旅行-7",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 8,
+      "word": "公公",
+      "pinyin": "gōnggōng",
+      "pos": "n.",
+      "meaning_en": "พ่อตา",
+      "id": "旅行-8",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 9,
+      "word": "婆婆",
+      "pinyin": "pópo",
+      "pos": "n.",
+      "meaning_en": "แม่สามี",
+      "id": "旅行-9",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 10,
+      "word": "之所以",
+      "pinyin": "zhīsuǒyǐ",
+      "pos": "conj.",
+      "meaning_en": "เหตุผล",
+      "id": "旅行-10",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 11,
+      "word": "平凡",
+      "pinyin": "píngfán",
+      "pos": "adj.",
+      "meaning_en": "สามัญ",
+      "id": "旅行-11",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 12,
+      "word": "情怀",
+      "pinyin": "qínghuái",
+      "pos": "adj.",
+      "meaning_en": "ความรู้สึก",
+      "id": "旅行-12",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 13,
+      "word": "文艺青年",
+      "pinyin": "wényì-qīngnián",
+      "pos": "np.",
+      "meaning_en": "เยาวชนวรรณกรรม",
+      "id": "旅行-13",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 14,
+      "word": "国企",
+      "pinyin": "guóqǐ",
+      "pos": "np.",
+      "meaning_en": "รัฐวิสาหกิจ",
+      "id": "旅行-14",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 15,
+      "word": "跳槽",
+      "pinyin": "tiàocáo",
+      "pos": "n.",
+      "meaning_en": "กระโดดงาน",
+      "id": "旅行-15",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 16,
+      "word": "外企",
+      "pinyin": "wàiqǐ",
+      "pos": "n.",
+      "meaning_en": "บริษัทต่างประเทศ",
+      "id": "旅行-16",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 17,
+      "word": "合伙",
+      "pinyin": "héhuǒ",
+      "pos": "n.",
+      "meaning_en": "ห้างหุ้นส่วน",
+      "id": "旅行-17",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 18,
+      "word": "创业",
+      "pinyin": "chuàngyè",
+      "pos": "v.",
+      "meaning_en": "เริ่มต้นธุรกิจ",
+      "id": "旅行-18",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 19,
+      "word": "公关",
+      "pinyin": "gōngguān",
+      "pos": "n.",
+      "meaning_en": "ประชาสัมพันธ์",
+      "id": "旅行-19",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 20,
+      "word": "即便",
+      "pinyin": "jíbiàn",
+      "pos": "conj.",
+      "meaning_en": "แม้ว่า",
+      "id": "旅行-20",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 21,
+      "word": "流浪",
+      "pinyin": "liúlàng",
+      "pos": "v.",
+      "meaning_en": "หลงทาง",
+      "id": "旅行-21",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 22,
+      "word": "区",
+      "pinyin": "qū",
+      "pos": "adj.",
+      "meaning_en": "เขต",
+      "id": "旅行-22",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 23,
+      "word": "兜风",
+      "pinyin": "dōufēng",
+      "pos": "v.",
+      "meaning_en": "นั่งรถ",
+      "id": "旅行-23",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 24,
+      "word": "骑行",
+      "pinyin": "qíxíng",
+      "pos": "vp.",
+      "meaning_en": "ขี่",
+      "id": "旅行-24",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 25,
+      "word": "将近",
+      "pinyin": "jiāngjìn",
+      "pos": "adv.",
+      "meaning_en": "เกือบ",
+      "id": "旅行-25",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 26,
+      "word": "高原",
+      "pinyin": "gāoyuán",
+      "pos": "n.",
+      "meaning_en": "ที่ราบสูง",
+      "id": "旅行-26",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 27,
+      "word": "无疑",
+      "pinyin": "wúyí",
+      "pos": "v.",
+      "meaning_en": "ไม่ต้องสงสัยเลย",
+      "id": "旅行-27",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 28,
+      "word": "紧迫",
+      "pinyin": "jǐnpò",
+      "pos": "adj.",
+      "meaning_en": "ด่วน",
+      "id": "旅行-28",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 29,
+      "word": "所谓的",
+      "pinyin": "suǒwèide",
+      "pos": "IE",
+      "meaning_en": "เรียกว่า",
+      "id": "旅行-29",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 30,
+      "word": "乍一听",
+      "pinyin": "zhàyītīng",
+      "pos": "IE",
+      "meaning_en": "เมื่อมองแวบแรก",
+      "id": "旅行-30",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 31,
+      "word": "异想天开",
+      "pinyin": "yìxiǎng-tiānkāi",
+      "pos": "IE",
+      "meaning_en": "แปลก",
+      "id": "旅行-31",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 32,
+      "word": "取而代之",
+      "pinyin": "qǔér-dàizhī",
+      "pos": "IE",
+      "meaning_en": "แทน",
+      "id": "旅行-32",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 33,
+      "word": "公众号",
+      "pinyin": "gōngzhònghào",
+      "pos": "np.",
+      "meaning_en": "บัญชีอย่างเป็นทางการ",
+      "id": "旅行-33",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 34,
+      "word": "但凡",
+      "pinyin": "dànfán",
+      "pos": "adv.",
+      "meaning_en": "สามัญ",
+      "id": "旅行-34",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 35,
+      "word": "开通",
+      "pinyin": "kāitōng",
+      "pos": "v.",
+      "meaning_en": "เปิด",
+      "id": "旅行-35",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 36,
+      "word": "动身",
+      "pinyin": "dòngshēn",
+      "pos": "v.",
+      "meaning_en": "ออกจาก",
+      "id": "旅行-36",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 37,
+      "word": "平台",
+      "pinyin": "píngtái",
+      "pos": "n.",
+      "meaning_en": "แพลตฟอร์ม",
+      "id": "旅行-37",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 38,
+      "word": "赶海",
+      "pinyin": "gǎnhǎi",
+      "pos": "v.",
+      "meaning_en": "จับทะเล",
+      "id": "旅行-38",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 39,
+      "word": "稻草人",
+      "pinyin": "dàocǎorén",
+      "pos": "n.",
+      "meaning_en": "หุ่นไล่กา",
+      "id": "旅行-39",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 40,
+      "word": "潇洒",
+      "pinyin": "xiāosǎ",
+      "pos": "adj.",
+      "meaning_en": "เก๋ไก๋",
+      "id": "旅行-40",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 41,
+      "word": "支撑",
+      "pinyin": "zhīchēng",
+      "pos": "v.",
+      "meaning_en": "ค้ำจุน, สนับสนุน",
+      "id": "旅行-41",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 42,
+      "word": "惯性",
+      "pinyin": "guànxìng",
+      "pos": "n.",
+      "meaning_en": "แรงเฉื่อย",
+      "id": "旅行-42",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 43,
+      "word": "思维",
+      "pinyin": "sīwéi",
+      "pos": "n.",
+      "meaning_en": "การคิด, ความคิด",
+      "id": "旅行-43",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 44,
+      "word": "看待",
+      "pinyin": "kàndài",
+      "pos": "v.",
+      "meaning_en": "รักษา",
+      "id": "旅行-44",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 45,
+      "word": "说白了",
+      "pinyin": "shuōbáile",
+      "pos": "IE",
+      "meaning_en": "ถ้าจะพูดตรงๆ",
+      "id": "旅行-45",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 46,
+      "word": "大头儿",
+      "pinyin": "dàtóuér",
+      "pos": "n.",
+      "meaning_en": "หัวใหญ่",
+      "id": "旅行-46",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 47,
+      "word": "摸索",
+      "pinyin": "mōsuǒ",
+      "pos": "v.",
+      "meaning_en": "คล้าหา",
+      "id": "旅行-47",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 48,
+      "word": "路子",
+      "pinyin": "lùzi",
+      "pos": "n.",
+      "meaning_en": "เส้นทาง",
+      "id": "旅行-48",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 49,
+      "word": "直播",
+      "pinyin": "zhíbō",
+      "pos": "v.",
+      "meaning_en": "สตรีมมิ่งสด",
+      "id": "旅行-49",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 50,
+      "word": "赞助",
+      "pinyin": "zànzhù",
+      "pos": "v.",
+      "meaning_en": "สปอนเซอร์",
+      "id": "旅行-50",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 51,
+      "word": "颇",
+      "pinyin": "pǒ",
+      "pos": "adv.",
+      "meaning_en": "ค่อนข้าง",
+      "id": "旅行-51",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 52,
+      "word": "股份",
+      "pinyin": "gǔfèn",
+      "pos": "n.",
+      "meaning_en": "หุ้น",
+      "id": "旅行-52",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 53,
+      "word": "补助",
+      "pinyin": "bǔzhù",
+      "pos": "n.",
+      "meaning_en": "เงินอุดหนุน",
+      "id": "旅行-53",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 54,
+      "word": "行车记录仪",
+      "pinyin": "xíngchē jìlù yí",
+      "pos": "np.",
+      "meaning_en": "เครื่องบันทึกการขับขี่",
+      "id": "旅行-54",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 55,
+      "word": "桩",
+      "pinyin": "zhuāng",
+      "pos": "m.",
+      "meaning_en": "กอง",
+      "id": "旅行-55",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 56,
+      "word": "更新",
+      "pinyin": "gēngxīn",
+      "pos": "m.",
+      "meaning_en": "ต่ออายุ",
+      "id": "旅行-56",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 57,
+      "word": "粉丝",
+      "pinyin": "fěnsī",
+      "pos": "m.",
+      "meaning_en": "พัดลม",
+      "id": "旅行-57",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 58,
+      "word": "流水账",
+      "pinyin": "liúshuǐzhàng",
+      "pos": "n.",
+      "meaning_en": "บัญชีที่ทำงานอยู่",
+      "id": "旅行-58",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 59,
+      "word": "耗费",
+      "pinyin": "hàofèi",
+      "pos": "n.",
+      "meaning_en": "บริโภค",
+      "id": "旅行-59",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 60,
+      "word": "绷着根弦",
+      "pinyin": "bēngzhe-gēnxián",
+      "pos": "v.",
+      "meaning_en": "การยืดสาย",
+      "id": "旅行-60",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 61,
+      "word": "认同",
+      "pinyin": "rèntóng",
+      "pos": "v.",
+      "meaning_en": "เห็นด้วย",
+      "id": "旅行-61",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 62,
+      "word": "花销",
+      "pinyin": "huāxiāo",
+      "pos": "n.",
+      "meaning_en": "ค่าใช้จ่าย",
+      "id": "旅行-62",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 63,
+      "word": "覆盖",
+      "pinyin": "fùgài",
+      "pos": "v.",
+      "meaning_en": "ปิดบัง",
+      "id": "旅行-63",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 64,
+      "word": "成本",
+      "pinyin": "chéngběn",
+      "pos": "n.",
+      "meaning_en": "ค่าใช้จ่าย",
+      "id": "旅行-64",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 65,
+      "word": "非但",
+      "pinyin": "fēidàn",
+      "pos": "conj.",
+      "meaning_en": "ไม่เพียงเท่านั้น",
+      "id": "旅行-65",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 66,
+      "word": "落实",
+      "pinyin": "luòshí",
+      "pos": "v.",
+      "meaning_en": "ดำเนินการ",
+      "id": "旅行-66",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 67,
+      "word": "践行",
+      "pinyin": "jiànxíng",
+      "pos": "v.",
+      "meaning_en": "ฝึกฝน",
+      "id": "旅行-67",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 68,
+      "word": "激发",
+      "pinyin": "jīfā",
+      "pos": "v.",
+      "meaning_en": "การกระตุ้น",
+      "id": "旅行-68",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 69,
+      "word": "灵感",
+      "pinyin": "línggǎn",
+      "pos": "adj.",
+      "meaning_en": "แรงบันดาลใจ",
+      "id": "旅行-69",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 70,
+      "word": "悲壮",
+      "pinyin": "bēizhuàng",
+      "pos": "adj.",
+      "meaning_en": "น่าเศร้า",
+      "id": "旅行-70",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 71,
+      "word": "勒紧裤腰带",
+      "pinyin": "lēijǐn kùyāo dài",
+      "pos": "IE",
+      "meaning_en": "รัดเข็มขัดของคุณให้แน่น",
+      "id": "旅行-71",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 72,
+      "word": "自媒体",
+      "pinyin": "zìméitǐ",
+      "pos": "np.",
+      "meaning_en": "สื่อด้วยตนเอง",
+      "id": "旅行-72",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 73,
+      "word": "大行其道",
+      "pinyin": "dàxíng-qídào",
+      "pos": "IE",
+      "meaning_en": "เป็นที่นิยม",
+      "id": "旅行-73",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 74,
+      "word": "繁忙",
+      "pinyin": "fánmáng",
+      "pos": "adj.",
+      "meaning_en": "ยุ่ง",
+      "id": "旅行-74",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 75,
+      "word": "客栈",
+      "pinyin": "kèzhàn",
+      "pos": "n.",
+      "meaning_en": "อินน์",
+      "id": "旅行-75",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 76,
+      "word": "繁华",
+      "pinyin": "fánhuá",
+      "pos": "adj.",
+      "meaning_en": "คึกคัก",
+      "id": "旅行-76",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 77,
+      "word": "沉淀",
+      "pinyin": "chéndiàn",
+      "pos": "v.",
+      "meaning_en": "การตกตะกอน",
+      "id": "旅行-77",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 78,
+      "word": "人文",
+      "pinyin": "rénwén",
+      "pos": "n.",
+      "meaning_en": "มนุษยศาสตร์",
+      "id": "旅行-78",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 79,
+      "word": "典雅",
+      "pinyin": "diǎnyǎ",
+      "pos": "adj.",
+      "meaning_en": "สง่างาม",
+      "id": "旅行-79",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 80,
+      "word": "喧闹",
+      "pinyin": "xuānnào",
+      "pos": "adj.",
+      "meaning_en": "เสียงดัง",
+      "id": "旅行-80",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 81,
+      "word": "和睦",
+      "pinyin": "hémù",
+      "pos": "adj.",
+      "meaning_en": "ความสามัคคี",
+      "id": "旅行-81",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 82,
+      "word": "世外桃源",
+      "pinyin": "shìwài-táoyuán",
+      "pos": "IE",
+      "meaning_en": "สวรรค์",
+      "id": "旅行-82",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 83,
+      "word": "禅院",
+      "pinyin": "chányuàn",
+      "pos": "n.",
+      "meaning_en": "เซนหยวน",
+      "id": "旅行-83",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 84,
+      "word": "旺盛",
+      "pinyin": "wàngshèng",
+      "pos": "adj.",
+      "meaning_en": "เจริญรุ่งเรือง",
+      "id": "旅行-84",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 85,
+      "word": "美誉",
+      "pinyin": "měiyù",
+      "pos": "n.",
+      "meaning_en": "ชื่อเสียงที่ดี",
+      "id": "旅行-85",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 86,
+      "word": "上善若水",
+      "pinyin": "shàngshàn-ruòshuǐ",
+      "pos": "IE",
+      "meaning_en": "สิ่งที่ดีที่สุดก็เหมือนน้ำ",
+      "id": "旅行-86",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 87,
+      "word": "流淌",
+      "pinyin": "liútǎng",
+      "pos": "v.",
+      "meaning_en": "ไหล",
+      "id": "旅行-87",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 88,
+      "word": "喧嚣",
+      "pinyin": "xuānxiāo",
+      "pos": "adj.",
+      "meaning_en": "เร่งรีบและวุ่นวาย",
+      "id": "旅行-88",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 89,
+      "word": "海南",
+      "pinyin": "hǎinán",
+      "pos": "adj.",
+      "meaning_en": "ไหหลำ",
+      "id": "旅行-89",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 90,
+      "word": "人艺",
+      "pinyin": "rényì",
+      "pos": "n.",
+      "meaning_en": "มนุษยชาติ",
+      "id": "旅行-90",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 91,
+      "word": "青海湖",
+      "pinyin": "qīnghǎihú",
+      "pos": "n.",
+      "meaning_en": "ทะเลสาบชิงไห่",
+      "id": "旅行-91",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 92,
+      "word": "途家",
+      "pinyin": "tújiā",
+      "pos": "n.",
+      "meaning_en": "ถู่เจีย",
+      "id": "旅行-92",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 93,
+      "word": "阿拉斯加",
+      "pinyin": "ālā-sījiā",
+      "pos": "IE",
+      "meaning_en": "อลาสกา",
+      "id": "旅行-93",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 94,
+      "word": "青城山",
+      "pinyin": "qīngchéngshān",
+      "pos": "n.",
+      "meaning_en": "ภูเขาชิงเฉิง",
+      "id": "旅行-94",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 95,
+      "word": "崇州",
+      "pinyin": "chóngzhōu",
+      "pos": "n.",
+      "meaning_en": "ฉงโจว",
+      "id": "旅行-95",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 96,
+      "word": "都江堰",
+      "pinyin": "dūjiāngyàn",
+      "pos": "n.",
+      "meaning_en": "ตู้เจียงเอี้ยน",
+      "id": "旅行-96",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 97,
+      "word": "大理",
+      "pinyin": "dàlǐ",
+      "pos": "n.",
+      "meaning_en": "ต้าหลี่",
+      "id": "旅行-97",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 98,
+      "word": "陶渊明",
+      "pinyin": "táoyuānmíng",
+      "pos": "n.",
+      "meaning_en": "เต๋า หยวนหมิง",
+      "id": "旅行-98",
+      "chapter": "旅行",
+      "chapter_en": "Travel"
+    },
+    {
+      "num": 1,
+      "word": "比基尼",
+      "pinyin": "bǐjīní",
+      "pos": "n.",
+      "meaning_en": "บิกินี่",
+      "id": "商贸-1",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 2,
+      "word": "拥有",
+      "pinyin": "yōngyǒu",
+      "pos": "v.",
+      "meaning_en": "มี",
+      "id": "商贸-2",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 3,
+      "word": "零售商",
+      "pinyin": "língshòushāng",
+      "pos": "n.",
+      "meaning_en": "ผู้ค้าปลีก",
+      "id": "商贸-3",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 4,
+      "word": "总部",
+      "pinyin": "zǒngbù",
+      "pos": "n.",
+      "meaning_en": "สำนักงานใหญ่",
+      "id": "商贸-4",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 5,
+      "word": "屏幕",
+      "pinyin": "píngmù",
+      "pos": "n.",
+      "meaning_en": "หน้าจอ",
+      "id": "商贸-5",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 6,
+      "word": "单",
+      "pinyin": "dān",
+      "pos": "m.",
+      "meaning_en": "หนึ่ง",
+      "id": "商贸-6",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 7,
+      "word": "交易",
+      "pinyin": "jiāoyì",
+      "pos": "n.",
+      "meaning_en": "ซื้อขาย",
+      "id": "商贸-7",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 8,
+      "word": "神经元",
+      "pinyin": "shénjīngyuán",
+      "pos": "n.",
+      "meaning_en": "เซลล์ประสาท",
+      "id": "商贸-8",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 9,
+      "word": "捕捉",
+      "pinyin": "bǔzhuō",
+      "pos": "v.",
+      "meaning_en": "การจับกุม",
+      "id": "商贸-9",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 10,
+      "word": "家宴",
+      "pinyin": "jiāyàn",
+      "pos": "n.",
+      "meaning_en": "อาหารเย็นกับครอบครัว",
+      "id": "商贸-10",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 11,
+      "word": "笋干",
+      "pinyin": "sǔngān",
+      "pos": "n.",
+      "meaning_en": "หน่อไม้แห้ง",
+      "id": "商贸-11",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 12,
+      "word": "额",
+      "pinyin": "é",
+      "pos": "n.",
+      "meaning_en": "หน้าผาก",
+      "id": "商贸-12",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 13,
+      "word": "网购",
+      "pinyin": "wǎnggòu",
+      "pos": "v.",
+      "meaning_en": "ช้อปปิ้งออนไลน์",
+      "id": "商贸-13",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 14,
+      "word": "促销",
+      "pinyin": "cùxiāo",
+      "pos": "v.",
+      "meaning_en": "การส่งเสริม",
+      "id": "商贸-14",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 15,
+      "word": "科幻",
+      "pinyin": "kēhuàn",
+      "pos": "n.",
+      "meaning_en": "นิยายวิทยาศาสตร์",
+      "id": "商贸-15",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 16,
+      "word": "描述",
+      "pinyin": "miáoshù",
+      "pos": "v.",
+      "meaning_en": "อธิบาย",
+      "id": "商贸-16",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 17,
+      "word": "场景",
+      "pinyin": "chǎngjǐng",
+      "pos": "n.",
+      "meaning_en": "ฉาก",
+      "id": "商贸-17",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 18,
+      "word": "按钮",
+      "pinyin": "ànniǔ",
+      "pos": "n.",
+      "meaning_en": "ปุ่ม",
+      "id": "商贸-18",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 19,
+      "word": "庞大",
+      "pinyin": "pángdà",
+      "pos": "adj.",
+      "meaning_en": "ใหญ่",
+      "id": "商贸-19",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 20,
+      "word": "运转",
+      "pinyin": "yùnzhuàn",
+      "pos": "v.",
+      "meaning_en": "วิ่ง",
+      "id": "商贸-20",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 21,
+      "word": "凌晨",
+      "pinyin": "língchén",
+      "pos": "n.",
+      "meaning_en": "เช้าตรู่",
+      "id": "商贸-21",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 22,
+      "word": "快递",
+      "pinyin": "kuàidì",
+      "pos": "n.",
+      "meaning_en": "จัดส่งด่วน",
+      "id": "商贸-22",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 23,
+      "word": "分抹",
+      "pinyin": "fēnmǒ",
+      "pos": "v.",
+      "meaning_en": "การแพร่กระจาย",
+      "id": "商贸-23",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 24,
+      "word": "高峰",
+      "pinyin": "gāofēng",
+      "pos": "n.",
+      "meaning_en": "จุดสูงสุด",
+      "id": "商贸-24",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 25,
+      "word": "区域",
+      "pinyin": "qūyù",
+      "pos": "n.",
+      "meaning_en": "พื้นที่",
+      "id": "商贸-25",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 26,
+      "word": "派送",
+      "pinyin": "pàisòng",
+      "pos": "v.",
+      "meaning_en": "จัดส่ง",
+      "id": "商贸-26",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 27,
+      "word": "奔波",
+      "pinyin": "bēnbō",
+      "pos": "v.",
+      "meaning_en": "วิ่งไปรอบๆ",
+      "id": "商贸-27",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 28,
+      "word": "电子商务",
+      "pinyin": "diànzi-shāngwù",
+      "pos": "np.",
+      "meaning_en": "พาณิชย์อิเล็กทรอนิกส์, อีคอมเมิร์ซ",
+      "id": "商贸-28",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 29,
+      "word": "马拉松",
+      "pinyin": "mǎlāsōng",
+      "pos": "n.",
+      "meaning_en": "มาราธอน",
+      "id": "商贸-29",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 30,
+      "word": "摄氏度",
+      "pinyin": "shèshìdù",
+      "pos": "m.",
+      "meaning_en": "องศาเซลเซียส",
+      "id": "商贸-30",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 31,
+      "word": "火热",
+      "pinyin": "huǒrè",
+      "pos": "adj.",
+      "meaning_en": "คะนอง",
+      "id": "商贸-31",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 32,
+      "word": "卸货",
+      "pinyin": "xièhuò",
+      "pos": "v.",
+      "meaning_en": "ปล่อย",
+      "id": "商贸-32",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 33,
+      "word": "片区",
+      "pinyin": "piànqū",
+      "pos": "n.",
+      "meaning_en": "พื้นที่",
+      "id": "商贸-33",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 34,
+      "word": "普及",
+      "pinyin": "pǔjí",
+      "pos": "v.",
+      "meaning_en": "สากล",
+      "id": "商贸-34",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 35,
+      "word": "物流",
+      "pinyin": "wùliú",
+      "pos": "n.",
+      "meaning_en": "โลจิสติกส์",
+      "id": "商贸-35",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 36,
+      "word": "过时",
+      "pinyin": "guòshí",
+      "pos": "adj.",
+      "meaning_en": "ล้าสมัย",
+      "id": "商贸-36",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 37,
+      "word": "点缀",
+      "pinyin": "diǎnzhuì",
+      "pos": "v.",
+      "meaning_en": "การจัดแต่ง",
+      "id": "商贸-37",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 38,
+      "word": "主角",
+      "pinyin": "zhǔjué",
+      "pos": "n.",
+      "meaning_en": "ตัวละครหลัก",
+      "id": "商贸-38",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 39,
+      "word": "劳碌",
+      "pinyin": "láolù",
+      "pos": "adj.",
+      "meaning_en": "งานหนัก",
+      "id": "商贸-39",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 40,
+      "word": "平淡",
+      "pinyin": "píngdàn",
+      "pos": "adj.",
+      "meaning_en": "น่าเบื่อ",
+      "id": "商贸-40",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 41,
+      "word": "沧海桑田",
+      "pinyin": "cānghǎi-sāngtián",
+      "pos": "IE",
+      "meaning_en": "การเปลี่ยนแปลงในทะเล",
+      "id": "商贸-41",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 42,
+      "word": "当初",
+      "pinyin": "dāngchū",
+      "pos": "n.",
+      "meaning_en": "ตอนแรก",
+      "id": "商贸-42",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 43,
+      "word": "包揽",
+      "pinyin": "bāolǎn",
+      "pos": "v.",
+      "meaning_en": "รับมันทั้งหมด",
+      "id": "商贸-43",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 44,
+      "word": "工牌",
+      "pinyin": "gōngpái",
+      "pos": "n.",
+      "meaning_en": "ใบอนุญาตทำงาน",
+      "id": "商贸-44",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 45,
+      "word": "催化",
+      "pinyin": "cuīhuà",
+      "pos": "v.",
+      "meaning_en": "ตัวเร่งปฏิกิริยา",
+      "id": "商贸-45",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 46,
+      "word": "民营",
+      "pinyin": "mínyíng",
+      "pos": "adj.",
+      "meaning_en": "ส่วนตัว",
+      "id": "商贸-46",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 47,
+      "word": "接力",
+      "pinyin": "jiēlì",
+      "pos": "v.",
+      "meaning_en": "รีเลย์",
+      "id": "商贸-47",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 48,
+      "word": "店铺",
+      "pinyin": "diànpù",
+      "pos": "n.",
+      "meaning_en": "ร้านค้า",
+      "id": "商贸-48",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 49,
+      "word": "产值",
+      "pinyin": "chǎnzhí",
+      "pos": "n.",
+      "meaning_en": "มูลค่าส่งออก",
+      "id": "商贸-49",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 50,
+      "word": "货源",
+      "pinyin": "huòyuán",
+      "pos": "n.",
+      "meaning_en": "จัดหา",
+      "id": "商贸-50",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 51,
+      "word": "入驻",
+      "pinyin": "rùzhù",
+      "pos": "v.",
+      "meaning_en": "ปักหลักแล้ว",
+      "id": "商贸-51",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 52,
+      "word": "厂房",
+      "pinyin": "chǎngfáng",
+      "pos": "n.",
+      "meaning_en": "อาคารโรงงาน",
+      "id": "商贸-52",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 53,
+      "word": "批发",
+      "pinyin": "pīfā",
+      "pos": "v.",
+      "meaning_en": "ขายส่ง",
+      "id": "商贸-53",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 54,
+      "word": "针织衫",
+      "pinyin": "zhēnzhīshān",
+      "pos": "n.",
+      "meaning_en": "เสื้อสเวตเตอร์ถัก",
+      "id": "商贸-54",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 55,
+      "word": "打底裤",
+      "pinyin": "dǎdǐkù",
+      "pos": "v.",
+      "meaning_en": "เลกกิ้ง",
+      "id": "商贸-55",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 56,
+      "word": "远近闻名",
+      "pinyin": "yuǎnjìn-wénmíng",
+      "pos": "IE",
+      "meaning_en": "มีชื่อเสียงโด่งดังไปไกล",
+      "id": "商贸-56",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 57,
+      "word": "高职",
+      "pinyin": "gāozhí",
+      "pos": "n.",
+      "meaning_en": "การศึกษาระดับอุดมศึกษา",
+      "id": "商贸-57",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 58,
+      "word": "应届生",
+      "pinyin": "yīngjièshēng",
+      "pos": "IE",
+      "meaning_en": "นักศึกษาจบใหม่",
+      "id": "商贸-58",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 59,
+      "word": "牺牲",
+      "pinyin": "xīshēng",
+      "pos": "n.",
+      "meaning_en": "เสียสละ",
+      "id": "商贸-59",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 60,
+      "word": "仓库",
+      "pinyin": "cāngkù",
+      "pos": "n.",
+      "meaning_en": "โกดัง",
+      "id": "商贸-60",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 61,
+      "word": "促成",
+      "pinyin": "cùchéng",
+      "pos": "v.",
+      "meaning_en": "มีส่วนร่วม",
+      "id": "商贸-61",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 62,
+      "word": "潮流",
+      "pinyin": "cháoliú",
+      "pos": "n.",
+      "meaning_en": "แนวโน้ม",
+      "id": "商贸-62",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 63,
+      "word": "家境",
+      "pinyin": "jiājìng",
+      "pos": "v.",
+      "meaning_en": "ภูมิหลังของครอบครัว",
+      "id": "商贸-63",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 64,
+      "word": "复读",
+      "pinyin": "fùdú",
+      "pos": "n.",
+      "meaning_en": "ทำซ้ำ",
+      "id": "商贸-64",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 65,
+      "word": "白痴",
+      "pinyin": "báichī",
+      "pos": "adj.",
+      "meaning_en": "งี่เง่า",
+      "id": "商贸-65",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 66,
+      "word": "轰动",
+      "pinyin": "hōngdòng",
+      "pos": "v.",
+      "meaning_en": "ความรู้สึก",
+      "id": "商贸-66",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 67,
+      "word": "摆摊",
+      "pinyin": "bǎitān",
+      "pos": "n.",
+      "meaning_en": "ตั้งแผงลอย",
+      "id": "商贸-67",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 68,
+      "word": "认定",
+      "pinyin": "rèndìng",
+      "pos": "v.",
+      "meaning_en": "แยกแยะ",
+      "id": "商贸-68",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 69,
+      "word": "产业链",
+      "pinyin": "chǎnyèliàn",
+      "pos": "vp.",
+      "meaning_en": "ห่วงโซ่อุตสาหกรรม",
+      "id": "商贸-69",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 70,
+      "word": "基因",
+      "pinyin": "jīyīn",
+      "pos": "n.",
+      "meaning_en": "ยีน",
+      "id": "商贸-70",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 71,
+      "word": "生态",
+      "pinyin": "shēngtài",
+      "pos": "n.",
+      "meaning_en": "นิเวศวิทยา",
+      "id": "商贸-71",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 72,
+      "word": "降温",
+      "pinyin": "jiàngwēn",
+      "pos": "v.",
+      "meaning_en": "เย็นลง",
+      "id": "商贸-72",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 73,
+      "word": "电商",
+      "pinyin": "diànshāng",
+      "pos": "n.",
+      "meaning_en": "อีคอมเมิร์ซ",
+      "id": "商贸-73",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 74,
+      "word": "地盘儿",
+      "pinyin": "dìpánér",
+      "pos": "n.",
+      "meaning_en": "อาณาเขต",
+      "id": "商贸-74",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 75,
+      "word": "快件",
+      "pinyin": "kuàijiàn",
+      "pos": "n.",
+      "meaning_en": "ด่วน",
+      "id": "商贸-75",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 76,
+      "word": "集贸市场",
+      "pinyin": "jímào-shìchǎng",
+      "pos": "np.",
+      "meaning_en": "ตลาดสด",
+      "id": "商贸-76",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 77,
+      "word": "堆积如山",
+      "pinyin": "duījī-rúshān",
+      "pos": "IE",
+      "meaning_en": "ซ้อนขึ้น",
+      "id": "商贸-77",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 78,
+      "word": "招数",
+      "pinyin": "zhāoshù",
+      "pos": "n.",
+      "meaning_en": "เทคนิค",
+      "id": "商贸-78",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 79,
+      "word": "尾号",
+      "pinyin": "wěihào",
+      "pos": "n.",
+      "meaning_en": "หมายเลขหาง",
+      "id": "商贸-79",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 80,
+      "word": "字号",
+      "pinyin": "zìhào",
+      "pos": "n.",
+      "meaning_en": "ขนาดตัวอักษร",
+      "id": "商贸-80",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 81,
+      "word": "一目了然",
+      "pinyin": "yīmù-liǎorán",
+      "pos": "IE",
+      "meaning_en": "ชัดเจนได้ในพริบตา",
+      "id": "商贸-81",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 82,
+      "word": "记性",
+      "pinyin": "jìxìng",
+      "pos": "IE",
+      "meaning_en": "หน่วยความจำ",
+      "id": "商贸-82",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 83,
+      "word": "心中有数",
+      "pinyin": "xīnzhōng-yǒushù",
+      "pos": "IE",
+      "meaning_en": "ตระหนักดี",
+      "id": "商贸-83",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 84,
+      "word": "新疆",
+      "pinyin": "xīnjiāng",
+      "pos": "n.",
+      "meaning_en": "ซินเจียง",
+      "id": "商贸-84",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 85,
+      "word": "浙江",
+      "pinyin": "zhèjiāng",
+      "pos": "n.",
+      "meaning_en": "เจ้อเจียง",
+      "id": "商贸-85",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 86,
+      "word": "香港",
+      "pinyin": "xiānggǎng",
+      "pos": "n.",
+      "meaning_en": "ฮ่องกง",
+      "id": "商贸-86",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 87,
+      "word": "淘宝",
+      "pinyin": "táobǎo",
+      "pos": "n.",
+      "meaning_en": "เถาเป่า",
+      "id": "商贸-87",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 88,
+      "word": "海淀区",
+      "pinyin": "hǎidiànqū",
+      "pos": "n.",
+      "meaning_en": "เขตไห่เตียน",
+      "id": "商贸-88",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 89,
+      "word": "沙河",
+      "pinyin": "shāhé",
+      "pos": "n.",
+      "meaning_en": "ชาเฮ",
+      "id": "商贸-89",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 90,
+      "word": "昌平",
+      "pinyin": "chāngpíng",
+      "pos": "n.",
+      "meaning_en": "ฉางผิง",
+      "id": "商贸-90",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 91,
+      "word": "朝阳区",
+      "pinyin": "cháoyángqū",
+      "pos": "n.",
+      "meaning_en": "อำเภอเฉาหยาง",
+      "id": "商贸-91",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 92,
+      "word": "西城区",
+      "pinyin": "xīchéngqū",
+      "pos": "n.",
+      "meaning_en": "เขตซีเฉิง",
+      "id": "商贸-92",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 93,
+      "word": "青岩刘村",
+      "pinyin": "qīngyán-liúcūn",
+      "pos": "IE",
+      "meaning_en": "ชิงเหยียน หลิวชุน",
+      "id": "商贸-93",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    },
+    {
+      "num": 94,
+      "word": "义乌",
+      "pinyin": "yìwū",
+      "pos": "n.",
+      "meaning_en": "อี้หวู่",
+      "id": "商贸-94",
+      "chapter": "商贸",
+      "chapter_en": "Business"
+    }
+  ]
+}
